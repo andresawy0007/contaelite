@@ -1,0 +1,86 @@
+# Ignorar configuración de DDEV
+.ddev
+# Ignorar archivos del entorno de desarrollo local
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Ignorar archivos y carpetas de configuración local
+sites/*/settings*.php
+sites/*/services.yml
+sites/*/development.services.yml
+sites/*/default/settings.local.php
+sites/*/default/settings.ddev.php
+sites/*/default/services.local.yml
+
+# Ignorar archivos de caché, logs y sesiones
+sites/*/files/php/*
+sites/*/files/js/*
+sites/*/files/css/*
+sites/*/files/styles/*
+sites/*/files/tmp/*
+sites/*/files/php/twig/*
+sites/simpletest/
+sites/default/files/private/
+sites/default/files/.htaccess
+
+# Ignorar archivos de Composer
+vendor/
+composer.lock
+composer.phar
+
+# Ignorar archivos generados por Drupal Console
+.drupal-console/
+.drupal-console.yml
+
+# Ignorar archivos y carpetas de módulos contribuidos y themes
+modules/contrib/
+themes/contrib/
+profiles/contrib/
+modules/composer/
+themes/composer/
+libraries/
+
+# Ignorar archivos de Drush
+.drush/
+drush/backups/
+drush/sites/
+drush/drush.yml
+
+# Ignorar archivos generados por npm/yarn
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Ignorar archivos de PHPUnit
+phpunit.xml
+phpunit.xml.dist
+phpunit.result.cache
+
+# Ignorar archivos temporales del sistema
+*.swp
+*.swo
+*.swn
+*.bak
+*.backup
+*.orig
+*.log
+*.tmp
+*.sass-cache
+*.cache
+*.coverage
+*.scssc
+
+# Ignorar configuraciones y archivos sensibles de Docker
+docker-compose.override.yml
+.env
+.env.local
+.env.*
+
+# Ignorar archivos de despliegue en servidores (como Platform.sh o Acquia)
+.platform/
+.platform.app.yaml
+.pantheon.yml
+.acquia/
