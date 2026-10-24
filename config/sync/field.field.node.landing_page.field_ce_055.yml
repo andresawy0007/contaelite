@@ -1,0 +1,19 @@
+uuid: c5cc2e03-1ef5-48cf-9a7a-1a2097dfb853
+langcode: es
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_ce_055
+    - node.type.landing_page
+id: node.landing_page.field_ce_055
+field_name: field_ce_055
+entity_type: node
+bundle: landing_page
+label: 'Servicios · Organización de registros contables'
+description: 'Texto de la plantilla. No requiere HTML.'
+required: false
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string_long

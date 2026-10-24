@@ -1,0 +1,14 @@
+uuid: 5f47c2e7-c39d-4cf3-885a-8207d1afa4d7
+langcode: es
+status: true
+dependencies:
+  config:
+    - user.role.contaelite_editor
+  module:
+    - user
+id: user_add_role_action.contaelite_editor
+label: 'Añade el rol Editor de Conta Élite al(los) usuario(s) seleccionado(s)'
+type: user
+plugin: user_add_role_action
+configuration:
+  rid: contaelite_editor

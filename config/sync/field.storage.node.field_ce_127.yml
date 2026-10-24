@@ -1,0 +1,19 @@
+uuid: 15974dd4-4bc1-46b1-b7f7-60a53506276b
+langcode: es
+status: true
+dependencies:
+  module:
+    - node
+id: node.field_ce_127
+field_name: field_ce_127
+entity_type: node
+type: string_long
+settings:
+  case_sensitive: false
+module: core
+locked: false
+cardinality: 1
+translatable: true
+indexes: {  }
+persist_with_no_fields: false
+custom_storage: false

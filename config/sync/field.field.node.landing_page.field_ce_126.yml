@@ -1,0 +1,19 @@
+uuid: 424e64f6-f617-4f12-8569-d93359d39258
+langcode: es
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_ce_126
+    - node.type.landing_page
+id: node.landing_page.field_ce_126
+field_name: field_ce_126
+entity_type: node
+bundle: landing_page
+label: 'Planes · Empresa'
+description: 'Texto de la plantilla. No requiere HTML.'
+required: false
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string_long

@@ -1,0 +1,19 @@
+uuid: 8a20d8b1-baea-415b-acb5-1d874a19f95d
+langcode: es
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_ce_157
+    - node.type.landing_page
+id: node.landing_page.field_ce_157
+field_name: field_ce_157
+entity_type: node
+bundle: landing_page
+label: 'Recursos · Define tus prioridades antes de iniciar la formalización.'
+description: 'Texto de la plantilla. No requiere HTML.'
+required: false
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string_long

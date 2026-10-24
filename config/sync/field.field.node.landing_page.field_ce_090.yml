@@ -1,0 +1,19 @@
+uuid: 40b0496e-7131-4607-b422-94834ad2721e
+langcode: es
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_ce_090
+    - node.type.landing_page
+id: node.landing_page.field_ce_090
+field_name: field_ce_090
+entity_type: node
+bundle: landing_page
+label: 'Nosotros · Tecnología con propósito'
+description: 'Texto de la plantilla. No requiere HTML.'
+required: false
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string_long

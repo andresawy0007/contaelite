@@ -1,0 +1,19 @@
+uuid: 94ffbd32-d1de-4e7c-bd9d-4e16fd1c4302
+langcode: es
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_ce_080
+    - node.type.landing_page
+id: node.landing_page.field_ce_080
+field_name: field_ce_080
+entity_type: node
+bundle: landing_page
+label: 'Nosotros · Los números cuentan.'
+description: 'Texto de la plantilla. No requiere HTML.'
+required: false
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string_long

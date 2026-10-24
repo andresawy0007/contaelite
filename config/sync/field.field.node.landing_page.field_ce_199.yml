@@ -1,0 +1,19 @@
+uuid: 5ea54c1d-9f92-4b3f-b410-c0cf00f2622f
+langcode: es
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_ce_199
+    - node.type.landing_page
+id: node.landing_page.field_ce_199
+field_name: field_ce_199
+entity_type: node
+bundle: landing_page
+label: 'Contacto · Solicita tu asesoría inicial gratuita'
+description: 'Texto de la plantilla. No requiere HTML.'
+required: false
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string_long

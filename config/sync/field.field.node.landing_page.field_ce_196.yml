@@ -1,0 +1,19 @@
+uuid: 12ac3014-923f-4cb4-b192-015fba5d38ea
+langcode: es
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_ce_196
+    - node.type.landing_page
+id: node.landing_page.field_ce_196
+field_name: field_ce_196
+entity_type: node
+bundle: landing_page
+label: 'Contacto · * Campos obligatorios. No incluyas claves, documentos de identidad ni información tri'
+description: 'Texto de la plantilla. No requiere HTML.'
+required: false
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string_long

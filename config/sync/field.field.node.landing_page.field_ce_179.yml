@@ -1,0 +1,19 @@
+uuid: d711fc33-b9bc-4fa2-80ee-039cd4ad8898
+langcode: es
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_ce_179
+    - node.type.landing_page
+id: node.landing_page.field_ce_179
+field_name: field_ce_179
+entity_type: node
+bundle: landing_page
+label: 'Contacto · merece claridad.'
+description: 'Texto de la plantilla. No requiere HTML.'
+required: false
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string_long

@@ -1,0 +1,19 @@
+uuid: 73dd348f-61c3-4a7e-8587-195c3c56db6c
+langcode: es
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_ce_217
+    - node.type.landing_page
+id: node.landing_page.field_ce_217
+field_name: field_ce_217
+entity_type: node
+bundle: landing_page
+label: 'Pie de página · Azul marino #0B203E'
+description: 'Texto de la plantilla. No requiere HTML.'
+required: false
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string_long

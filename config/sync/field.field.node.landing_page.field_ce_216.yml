@@ -1,0 +1,19 @@
+uuid: c2ca20ef-d709-46ec-b075-4ae0e113a9f1
+langcode: es
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_ce_216
+    - node.type.landing_page
+id: node.landing_page.field_ce_216
+field_name: field_ce_216
+entity_type: node
+bundle: landing_page
+label: 'Pie de página · Línea gráfica'
+description: 'Texto de la plantilla. No requiere HTML.'
+required: false
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string_long

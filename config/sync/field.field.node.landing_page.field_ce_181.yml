@@ -1,0 +1,19 @@
+uuid: 7e915158-75e3-4ce2-bc97-a9174e1c016d
+langcode: es
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_ce_181
+    - node.type.landing_page
+id: node.landing_page.field_ce_181
+field_name: field_ce_181
+entity_type: node
+bundle: landing_page
+label: 'Contacto · Cuéntanos qué necesita tu negocio'
+description: 'Texto de la plantilla. No requiere HTML.'
+required: false
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string_long

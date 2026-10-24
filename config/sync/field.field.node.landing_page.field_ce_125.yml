@@ -1,0 +1,19 @@
+uuid: 44048cb9-5c9d-4763-b1ca-d1e856aa4814
+langcode: es
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_ce_125
+    - node.type.landing_page
+id: node.landing_page.field_ce_125
+field_name: field_ce_125
+entity_type: node
+bundle: landing_page
+label: 'Planes · ACOMPAÑAMIENTO'
+description: 'Texto de la plantilla. No requiere HTML.'
+required: false
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string_long

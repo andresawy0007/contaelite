@@ -1,0 +1,19 @@
+uuid: 02e67a11-2baf-4e2b-a4aa-a38d134ba4c8
+langcode: es
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_ce_163
+    - node.type.landing_page
+id: node.landing_page.field_ce_163
+field_name: field_ce_163
+entity_type: node
+bundle: landing_page
+label: 'Recursos · Consultar disponibilidad'
+description: 'Texto de la plantilla. No requiere HTML.'
+required: false
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string_long

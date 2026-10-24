@@ -1,0 +1,19 @@
+uuid: 13cb7ee2-f8be-4b50-9c64-df44c43bfcfc
+langcode: es
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_ce_078
+    - node.type.landing_page
+id: node.landing_page.field_ce_078
+field_name: field_ce_078
+entity_type: node
+bundle: landing_page
+label: 'Servicios · El alcance de cada servicio se define en la propuesta, según las necesidades de tu ne'
+description: 'Texto de la plantilla. No requiere HTML.'
+required: false
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string_long

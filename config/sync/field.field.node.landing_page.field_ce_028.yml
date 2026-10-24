@@ -1,0 +1,19 @@
+uuid: aea0e5ef-a18b-41b4-bac5-b375a0bae1eb
+langcode: es
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_ce_028
+    - node.type.landing_page
+id: node.landing_page.field_ce_028
+field_name: field_ce_028
+entity_type: node
+bundle: landing_page
+label: 'Encabezado · Explorar servicios'
+description: 'Texto de la plantilla. No requiere HTML.'
+required: false
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string_long

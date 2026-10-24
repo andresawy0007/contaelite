@@ -1,0 +1,19 @@
+uuid: 23b51f40-9f38-4bc6-8ab0-7889581a9f0b
+langcode: es
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_ce_114
+    - node.type.landing_page
+id: node.landing_page.field_ce_114
+field_name: field_ce_114
+entity_type: node
+bundle: landing_page
+label: 'Planes · Valor por definir'
+description: 'Texto de la plantilla. No requiere HTML.'
+required: false
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string_long

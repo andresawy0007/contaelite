@@ -1,0 +1,19 @@
+uuid: 9b84daae-4993-4d6c-9daa-2c6798f3d22c
+langcode: es
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_ce_109
+    - node.type.landing_page
+id: node.landing_page.field_ce_109
+field_name: field_ce_109
+entity_type: node
+bundle: landing_page
+label: 'Planes · tu siguiente paso.'
+description: 'Texto de la plantilla. No requiere HTML.'
+required: false
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string_long

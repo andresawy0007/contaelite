@@ -1,0 +1,19 @@
+uuid: d861199d-21e7-49b6-a70f-30f89c4921de
+langcode: es
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_ce_192
+    - node.type.landing_page
+id: node.landing_page.field_ce_192
+field_name: field_ce_192
+entity_type: node
+bundle: landing_page
+label: 'Contacto · Asesoría financiera'
+description: 'Texto de la plantilla. No requiere HTML.'
+required: false
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string_long

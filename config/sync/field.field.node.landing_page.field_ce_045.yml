@@ -1,0 +1,19 @@
+uuid: c1e6cdd7-6322-48cf-9865-e8749918565e
+langcode: es
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_ce_045
+    - node.type.landing_page
+id: node.landing_page.field_ce_045
+field_name: field_ce_045
+entity_type: node
+bundle: landing_page
+label: 'Encabezado · Acompañamiento remoto'
+description: 'Texto de la plantilla. No requiere HTML.'
+required: false
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string_long

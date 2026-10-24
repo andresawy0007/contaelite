@@ -1,0 +1,19 @@
+uuid: 8d4c2c59-b4c6-430b-9582-7dc04408456c
+langcode: es
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_ce_119
+    - node.type.landing_page
+id: node.landing_page.field_ce_119
+field_name: field_ce_119
+entity_type: node
+bundle: landing_page
+label: 'Planes · Emprendimiento'
+description: 'Texto de la plantilla. No requiere HTML.'
+required: false
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string_long

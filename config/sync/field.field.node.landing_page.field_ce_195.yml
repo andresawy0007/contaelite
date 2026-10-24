@@ -1,0 +1,19 @@
+uuid: 0f769269-e8ff-4b20-8a07-3ed0d40fb601
+langcode: es
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_ce_195
+    - node.type.landing_page
+id: node.landing_page.field_ce_195
+field_name: field_ce_195
+entity_type: node
+bundle: landing_page
+label: 'Contacto · Describe tu actividad y lo que te gustaría resolver.'
+description: 'Enlace, texto alternativo o etiqueta accesible. Los enlaces admiten #seccion, rutas relativas, https://, mailto: y tel:.'
+required: false
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string_long

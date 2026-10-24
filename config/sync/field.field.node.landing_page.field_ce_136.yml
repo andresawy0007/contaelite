@@ -1,0 +1,19 @@
+uuid: dd59f38b-af91-4173-9770-b66dace99143
+langcode: es
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_ce_136
+    - node.type.landing_page
+id: node.landing_page.field_ce_136
+field_name: field_ce_136
+entity_type: node
+bundle: landing_page
+label: 'Equipo · Somos un equipo de cuatro contadores públicos. Nos une el propósito de acompañar a pe'
+description: 'Texto de la plantilla. No requiere HTML.'
+required: false
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string_long

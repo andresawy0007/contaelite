@@ -1,0 +1,19 @@
+uuid: ea2f316f-dd7a-4549-a27f-d61bd3f1a14b
+langcode: es
+status: true
+dependencies:
+  module:
+    - node
+id: node.field_ce_217
+field_name: field_ce_217
+entity_type: node
+type: string_long
+settings:
+  case_sensitive: false
+module: core
+locked: false
+cardinality: 1
+translatable: true
+indexes: {  }
+persist_with_no_fields: false
+custom_storage: false

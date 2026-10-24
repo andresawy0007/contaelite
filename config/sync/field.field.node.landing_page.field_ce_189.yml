@@ -1,0 +1,19 @@
+uuid: 54346bc3-3863-4ed5-a23d-0fd0b4f9c1d2
+langcode: es
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_ce_189
+    - node.type.landing_page
+id: node.landing_page.field_ce_189
+field_name: field_ce_189
+entity_type: node
+bundle: landing_page
+label: 'Contacto · Contabilidad empresarial'
+description: 'Texto de la plantilla. No requiere HTML.'
+required: false
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string_long

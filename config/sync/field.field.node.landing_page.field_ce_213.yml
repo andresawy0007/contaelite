@@ -1,0 +1,19 @@
+uuid: c51df305-d534-4ec5-b2e0-64aa982ff714
+langcode: es
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_ce_213
+    - node.type.landing_page
+id: node.landing_page.field_ce_213
+field_name: field_ce_213
+entity_type: node
+bundle: landing_page
+label: 'Pie de página · Privacidad de esta plantilla'
+description: 'Texto de la plantilla. No requiere HTML.'
+required: false
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string_long

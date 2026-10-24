@@ -1,0 +1,22 @@
+uuid: 21e3da86-5692-4666-8d70-e55a365429f1
+langcode: es
+status: true
+dependencies:
+  module:
+    - system
+  theme:
+    - contaelite_theme
+_core:
+  default_config_hash: 5IxRyBV6UI-zf889uWOlyUbNz8slU9q-xF5nFjx0HY0
+id: contaelite_content
+theme: contaelite_theme
+region: content
+weight: 0
+provider: null
+plugin: system_main_block
+settings:
+  id: system_main_block
+  label: Contenido
+  label_display: '0'
+  provider: system
+visibility: {  }

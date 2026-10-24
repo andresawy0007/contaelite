@@ -1,0 +1,8 @@
+name: Conta Élite
+type: theme
+base theme: false
+core_version_requirement: ^11
+libraries:
+  - contaelite_theme/landing
+regions:
+  content: Contenido

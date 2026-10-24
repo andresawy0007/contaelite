@@ -1,0 +1,19 @@
+uuid: b8745c9e-f299-4462-8094-895be12b031c
+langcode: es
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_ce_219
+    - node.type.landing_page
+id: node.landing_page.field_ce_219
+field_name: field_ce_219
+entity_type: node
+bundle: landing_page
+label: 'Pie de página · Blanco #FFFFFF'
+description: 'Texto de la plantilla. No requiere HTML.'
+required: false
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string_long

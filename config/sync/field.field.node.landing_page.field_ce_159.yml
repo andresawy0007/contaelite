@@ -1,0 +1,19 @@
+uuid: 18e24241-e20b-46a0-b0c2-012815fc677c
+langcode: es
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_ce_159
+    - node.type.landing_page
+id: node.landing_page.field_ce_159
+field_name: field_ce_159
+entity_type: node
+bundle: landing_page
+label: 'Recursos · Cuéntanos qué venderás, si trabajarás con socios y cómo esperas operar. Esa informaci'
+description: 'Texto de la plantilla. No requiere HTML.'
+required: false
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string_long

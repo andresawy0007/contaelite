@@ -1,0 +1,19 @@
+uuid: c3e2bdfc-9956-488d-83b1-015378dd8618
+langcode: es
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_ce_168
+    - node.type.landing_page
+id: node.landing_page.field_ce_168
+field_name: field_ce_168
+entity_type: node
+bundle: landing_page
+label: 'Preguntas frecuentes · Sí. El acompañamiento es remoto y está dirigido a clientes en toda Colombia.'
+description: 'Texto de la plantilla. No requiere HTML.'
+required: false
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string_long

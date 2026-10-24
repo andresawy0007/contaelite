@@ -1,0 +1,19 @@
+uuid: cc355268-7588-4807-8321-92ec038f9ac1
+langcode: es
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_ce_086
+    - node.type.landing_page
+id: node.landing_page.field_ce_086
+field_name: field_ce_086
+entity_type: node
+bundle: landing_page
+label: 'Nosotros · 01'
+description: 'Texto de la plantilla. No requiere HTML.'
+required: false
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string_long

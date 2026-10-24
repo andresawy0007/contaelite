@@ -1,0 +1,19 @@
+uuid: a522086a-2470-404d-bac9-17c28011ec39
+langcode: es
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_ce_063
+    - node.type.landing_page
+id: node.landing_page.field_ce_063
+field_name: field_ce_063
+entity_type: node
+bundle: landing_page
+label: 'Servicios · Planea tus obligaciones con criterio y toma decisiones informadas sobre tus impuestos'
+description: 'Texto de la plantilla. No requiere HTML.'
+required: false
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string_long

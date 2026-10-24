@@ -1,0 +1,12 @@
+name: Conta Élite
+type: module
+description: Landing administrable de Conta Élite.
+core_version_requirement: ^11
+package: Conta Élite
+dependencies:
+  - drupal:node
+  - drupal:field
+  - drupal:field_ui
+  - drupal:text
+  - drupal:image
+  - drupal:options

@@ -1,0 +1,38 @@
+uuid: 762c9d01-934f-4585-84f0-495270da33e1
+langcode: es
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_ce_portrait_1
+    - node.type.landing_page
+  module:
+    - image
+id: node.landing_page.field_ce_portrait_1
+field_name: field_ce_portrait_1
+entity_type: node
+bundle: landing_page
+label: 'Fotografía del equipo 1'
+description: ''
+required: false
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings:
+  handler: 'default:file'
+  handler_settings: {  }
+  file_directory: contaelite/equipo
+  file_extensions: 'png jpg jpeg webp'
+  max_filesize: ''
+  max_resolution: ''
+  min_resolution: ''
+  alt_field: true
+  alt_field_required: true
+  title_field: false
+  title_field_required: false
+  default_image:
+    uuid: null
+    alt: ''
+    title: ''
+    width: null
+    height: null
+field_type: image

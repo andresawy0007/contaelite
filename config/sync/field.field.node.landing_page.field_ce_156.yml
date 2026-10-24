@@ -1,0 +1,19 @@
+uuid: b5f2b498-bb9d-40bf-941c-84f3e5faed4e
+langcode: es
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_ce_156
+    - node.type.landing_page
+id: node.landing_page.field_ce_156
+field_name: field_ce_156
+entity_type: node
+bundle: landing_page
+label: 'Recursos · De una idea a un negocio organizado'
+description: 'Texto de la plantilla. No requiere HTML.'
+required: false
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string_long

@@ -1,0 +1,19 @@
+uuid: f5b841c6-ba30-47be-a9d2-d61dd9f6a001
+langcode: es
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_ce_180
+    - node.type.landing_page
+id: node.landing_page.field_ce_180
+field_name: field_ce_180
+entity_type: node
+bundle: landing_page
+label: 'Contacto · Cuéntanos en qué etapa estás. Encontraremos juntos el punto de partida para organizar'
+description: 'Texto de la plantilla. No requiere HTML.'
+required: false
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string_long

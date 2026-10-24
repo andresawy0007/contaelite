@@ -1,0 +1,1542 @@
+[
+  {
+    "name": "field_ce_001",
+    "label": "Encabezado · #contenido",
+    "value": "#contenido",
+    "kind": "attribute",
+    "section": "Encabezado"
+  },
+  {
+    "name": "field_ce_002",
+    "label": "Encabezado · Saltar al contenido",
+    "value": "Saltar al contenido",
+    "kind": "text",
+    "section": "Encabezado"
+  },
+  {
+    "name": "field_ce_003",
+    "label": "Encabezado · Contabilidad · Tributación · Asesoría",
+    "value": "Contabilidad · Tributación · Asesoría",
+    "kind": "text",
+    "section": "Encabezado"
+  },
+  {
+    "name": "field_ce_004",
+    "label": "Encabezado · Atención remota en toda Colombia",
+    "value": "Atención remota en toda Colombia",
+    "kind": "text",
+    "section": "Encabezado"
+  },
+  {
+    "name": "field_ce_005",
+    "label": "Encabezado · #",
+    "value": "#",
+    "kind": "attribute",
+    "section": "Encabezado"
+  },
+  {
+    "name": "field_ce_006",
+    "label": "Encabezado · Conta Élite, inicio",
+    "value": "Conta Élite, inicio",
+    "kind": "attribute",
+    "section": "Encabezado"
+  },
+  {
+    "name": "field_ce_007",
+    "label": "Encabezado · Conta Élite — Contabilidad, tributación y asesoría",
+    "value": "Conta Élite — Contabilidad, tributación y asesoría",
+    "kind": "attribute",
+    "section": "Encabezado"
+  },
+  {
+    "name": "field_ce_008",
+    "label": "Encabezado · Navegación principal",
+    "value": "Navegación principal",
+    "kind": "attribute",
+    "section": "Encabezado"
+  },
+  {
+    "name": "field_ce_009",
+    "label": "Encabezado · #servicios",
+    "value": "#servicios",
+    "kind": "attribute",
+    "section": "Encabezado"
+  },
+  {
+    "name": "field_ce_010",
+    "label": "Encabezado · Servicios",
+    "value": "Servicios",
+    "kind": "text",
+    "section": "Encabezado"
+  },
+  {
+    "name": "field_ce_011",
+    "label": "Encabezado · #nosotros",
+    "value": "#nosotros",
+    "kind": "attribute",
+    "section": "Encabezado"
+  },
+  {
+    "name": "field_ce_012",
+    "label": "Encabezado · La firma",
+    "value": "La firma",
+    "kind": "text",
+    "section": "Encabezado"
+  },
+  {
+    "name": "field_ce_013",
+    "label": "Encabezado · #planes",
+    "value": "#planes",
+    "kind": "attribute",
+    "section": "Encabezado"
+  },
+  {
+    "name": "field_ce_014",
+    "label": "Encabezado · Planes",
+    "value": "Planes",
+    "kind": "text",
+    "section": "Encabezado"
+  },
+  {
+    "name": "field_ce_015",
+    "label": "Encabezado · #recursos",
+    "value": "#recursos",
+    "kind": "attribute",
+    "section": "Encabezado"
+  },
+  {
+    "name": "field_ce_016",
+    "label": "Encabezado · Recursos",
+    "value": "Recursos",
+    "kind": "text",
+    "section": "Encabezado"
+  },
+  {
+    "name": "field_ce_017",
+    "label": "Encabezado · #contacto",
+    "value": "#contacto",
+    "kind": "attribute",
+    "section": "Encabezado"
+  },
+  {
+    "name": "field_ce_018",
+    "label": "Encabezado · Hablemos de tu negocio",
+    "value": "Hablemos de tu negocio",
+    "kind": "text",
+    "section": "Encabezado"
+  },
+  {
+    "name": "field_ce_019",
+    "label": "Encabezado · Abrir menú",
+    "value": "Abrir menú",
+    "kind": "attribute",
+    "section": "Encabezado"
+  },
+  {
+    "name": "field_ce_020",
+    "label": "Encabezado · Tu próximo paso, con respaldo",
+    "value": "Tu próximo paso, con respaldo",
+    "kind": "text",
+    "section": "Encabezado"
+  },
+  {
+    "name": "field_ce_021",
+    "label": "Encabezado · Tu negocio crece.",
+    "value": "Tu negocio crece.",
+    "kind": "text",
+    "section": "Encabezado"
+  },
+  {
+    "name": "field_ce_022",
+    "label": "Encabezado · Tu contabilidad",
+    "value": "Tu contabilidad",
+    "kind": "text",
+    "section": "Encabezado"
+  },
+  {
+    "name": "field_ce_023",
+    "label": "Encabezado · va contigo.",
+    "value": "va contigo.",
+    "kind": "text",
+    "section": "Encabezado"
+  },
+  {
+    "name": "field_ce_024",
+    "label": "Encabezado · Transformamos tus números en información clara para decidir. Asesoría contable, tribu",
+    "value": "Transformamos tus números en información clara para decidir. Asesoría contable, tributaria y financiera, con tecnología y acompañamiento cercano.",
+    "kind": "text",
+    "section": "Encabezado"
+  },
+  {
+    "name": "field_ce_025",
+    "label": "Encabezado · #contacto",
+    "value": "#contacto",
+    "kind": "attribute",
+    "section": "Encabezado"
+  },
+  {
+    "name": "field_ce_026",
+    "label": "Encabezado · Solicitar asesoría gratuita",
+    "value": "Solicitar asesoría gratuita",
+    "kind": "text",
+    "section": "Encabezado"
+  },
+  {
+    "name": "field_ce_027",
+    "label": "Encabezado · #servicios",
+    "value": "#servicios",
+    "kind": "attribute",
+    "section": "Encabezado"
+  },
+  {
+    "name": "field_ce_028",
+    "label": "Encabezado · Explorar servicios",
+    "value": "Explorar servicios",
+    "kind": "text",
+    "section": "Encabezado"
+  },
+  {
+    "name": "field_ce_029",
+    "label": "Encabezado · Para personas, microempresas y emprendimientos en Colombia.",
+    "value": "Para personas, microempresas y emprendimientos en Colombia.",
+    "kind": "text",
+    "section": "Encabezado"
+  },
+  {
+    "name": "field_ce_030",
+    "label": "Encabezado · Ilustración conceptual de organización contable",
+    "value": "Ilustración conceptual de organización contable",
+    "kind": "attribute",
+    "section": "Encabezado"
+  },
+  {
+    "name": "field_ce_031",
+    "label": "Encabezado · CONTA ÉLITE",
+    "value": "CONTA ÉLITE",
+    "kind": "text",
+    "section": "Encabezado"
+  },
+  {
+    "name": "field_ce_032",
+    "label": "Encabezado · Tu negocio, en perspectiva",
+    "value": "Tu negocio, en perspectiva",
+    "kind": "text",
+    "section": "Encabezado"
+  },
+  {
+    "name": "field_ce_033",
+    "label": "Encabezado · Claridad para avanzar.",
+    "value": "Claridad para avanzar.",
+    "kind": "text",
+    "section": "Encabezado"
+  },
+  {
+    "name": "field_ce_034",
+    "label": "Encabezado · Organización + acompañamiento + estrategia",
+    "value": "Organización + acompañamiento + estrategia",
+    "kind": "text",
+    "section": "Encabezado"
+  },
+  {
+    "name": "field_ce_035",
+    "label": "Encabezado · Contabilidad",
+    "value": "Contabilidad",
+    "kind": "text",
+    "section": "Encabezado"
+  },
+  {
+    "name": "field_ce_036",
+    "label": "Encabezado · Organización",
+    "value": "Organización",
+    "kind": "text",
+    "section": "Encabezado"
+  },
+  {
+    "name": "field_ce_037",
+    "label": "Encabezado · Obligaciones tributarias",
+    "value": "Obligaciones tributarias",
+    "kind": "text",
+    "section": "Encabezado"
+  },
+  {
+    "name": "field_ce_038",
+    "label": "Encabezado · Planeación",
+    "value": "Planeación",
+    "kind": "text",
+    "section": "Encabezado"
+  },
+  {
+    "name": "field_ce_039",
+    "label": "Encabezado · Información financiera",
+    "value": "Información financiera",
+    "kind": "text",
+    "section": "Encabezado"
+  },
+  {
+    "name": "field_ce_040",
+    "label": "Encabezado · Decisiones",
+    "value": "Decisiones",
+    "kind": "text",
+    "section": "Encabezado"
+  },
+  {
+    "name": "field_ce_041",
+    "label": "Encabezado · Representación conceptual, sin datos de clientes.",
+    "value": "Representación conceptual, sin datos de clientes.",
+    "kind": "text",
+    "section": "Encabezado"
+  },
+  {
+    "name": "field_ce_042",
+    "label": "Encabezado · Más que registrar.",
+    "value": "Más que registrar.",
+    "kind": "text",
+    "section": "Encabezado"
+  },
+  {
+    "name": "field_ce_043",
+    "label": "Encabezado · Estrategia para tu siguiente paso.",
+    "value": "Estrategia para tu siguiente paso.",
+    "kind": "text",
+    "section": "Encabezado"
+  },
+  {
+    "name": "field_ce_044",
+    "label": "Encabezado · 4 contadores públicos",
+    "value": "4 contadores públicos",
+    "kind": "text",
+    "section": "Encabezado"
+  },
+  {
+    "name": "field_ce_045",
+    "label": "Encabezado · Acompañamiento remoto",
+    "value": "Acompañamiento remoto",
+    "kind": "text",
+    "section": "Encabezado"
+  },
+  {
+    "name": "field_ce_046",
+    "label": "Encabezado · Asesoría inicial gratuita",
+    "value": "Asesoría inicial gratuita",
+    "kind": "text",
+    "section": "Encabezado"
+  },
+  {
+    "name": "field_ce_047",
+    "label": "Servicios · Soluciones para tu etapa",
+    "value": "Soluciones para tu etapa",
+    "kind": "text",
+    "section": "Servicios"
+  },
+  {
+    "name": "field_ce_048",
+    "label": "Servicios · Menos incertidumbre.",
+    "value": "Menos incertidumbre.",
+    "kind": "text",
+    "section": "Servicios"
+  },
+  {
+    "name": "field_ce_049",
+    "label": "Servicios · Más dirección.",
+    "value": "Más dirección.",
+    "kind": "text",
+    "section": "Servicios"
+  },
+  {
+    "name": "field_ce_050",
+    "label": "Servicios · Desde dar el primer paso hasta organizar lo que ya construiste. Encuentra el respaldo",
+    "value": "Desde dar el primer paso hasta organizar lo que ya construiste. Encuentra el respaldo que necesita tu negocio.",
+    "kind": "text",
+    "section": "Servicios"
+  },
+  {
+    "name": "field_ce_051",
+    "label": "Servicios · 01 /",
+    "value": "01 /",
+    "kind": "text",
+    "section": "Servicios"
+  },
+  {
+    "name": "field_ce_052",
+    "label": "Servicios · Contabilidad",
+    "value": "Contabilidad",
+    "kind": "text",
+    "section": "Servicios"
+  },
+  {
+    "name": "field_ce_053",
+    "label": "Servicios · empresarial",
+    "value": "empresarial",
+    "kind": "text",
+    "section": "Servicios"
+  },
+  {
+    "name": "field_ce_054",
+    "label": "Servicios · Entiende cómo va tu negocio con información organizada y útil para tomar decisiones.",
+    "value": "Entiende cómo va tu negocio con información organizada y útil para tomar decisiones.",
+    "kind": "text",
+    "section": "Servicios"
+  },
+  {
+    "name": "field_ce_055",
+    "label": "Servicios · Organización de registros contables",
+    "value": "Organización de registros contables",
+    "kind": "text",
+    "section": "Servicios"
+  },
+  {
+    "name": "field_ce_056",
+    "label": "Servicios · Información y reportes financieros",
+    "value": "Información y reportes financieros",
+    "kind": "text",
+    "section": "Servicios"
+  },
+  {
+    "name": "field_ce_057",
+    "label": "Servicios · Acompañamiento contable y de nómina",
+    "value": "Acompañamiento contable y de nómina",
+    "kind": "text",
+    "section": "Servicios"
+  },
+  {
+    "name": "field_ce_058",
+    "label": "Servicios · #contacto",
+    "value": "#contacto",
+    "kind": "attribute",
+    "section": "Servicios"
+  },
+  {
+    "name": "field_ce_059",
+    "label": "Servicios · Quiero organizar mi contabilidad",
+    "value": "Quiero organizar mi contabilidad",
+    "kind": "text",
+    "section": "Servicios"
+  },
+  {
+    "name": "field_ce_060",
+    "label": "Servicios · 02 /",
+    "value": "02 /",
+    "kind": "text",
+    "section": "Servicios"
+  },
+  {
+    "name": "field_ce_061",
+    "label": "Servicios · Asesoría",
+    "value": "Asesoría",
+    "kind": "text",
+    "section": "Servicios"
+  },
+  {
+    "name": "field_ce_062",
+    "label": "Servicios · tributaria",
+    "value": "tributaria",
+    "kind": "text",
+    "section": "Servicios"
+  },
+  {
+    "name": "field_ce_063",
+    "label": "Servicios · Planea tus obligaciones con criterio y toma decisiones informadas sobre tus impuestos",
+    "value": "Planea tus obligaciones con criterio y toma decisiones informadas sobre tus impuestos.",
+    "kind": "text",
+    "section": "Servicios"
+  },
+  {
+    "name": "field_ce_064",
+    "label": "Servicios · Revisión de tu situación tributaria",
+    "value": "Revisión de tu situación tributaria",
+    "kind": "text",
+    "section": "Servicios"
+  },
+  {
+    "name": "field_ce_065",
+    "label": "Servicios · Orientación sobre obligaciones",
+    "value": "Orientación sobre obligaciones",
+    "kind": "text",
+    "section": "Servicios"
+  },
+  {
+    "name": "field_ce_066",
+    "label": "Servicios · Planeación según tu actividad",
+    "value": "Planeación según tu actividad",
+    "kind": "text",
+    "section": "Servicios"
+  },
+  {
+    "name": "field_ce_067",
+    "label": "Servicios · #contacto",
+    "value": "#contacto",
+    "kind": "attribute",
+    "section": "Servicios"
+  },
+  {
+    "name": "field_ce_068",
+    "label": "Servicios · Quiero orientación tributaria",
+    "value": "Quiero orientación tributaria",
+    "kind": "text",
+    "section": "Servicios"
+  },
+  {
+    "name": "field_ce_069",
+    "label": "Servicios · 03 /",
+    "value": "03 /",
+    "kind": "text",
+    "section": "Servicios"
+  },
+  {
+    "name": "field_ce_070",
+    "label": "Servicios · Formalización",
+    "value": "Formalización",
+    "kind": "text",
+    "section": "Servicios"
+  },
+  {
+    "name": "field_ce_071",
+    "label": "Servicios · de empresas",
+    "value": "de empresas",
+    "kind": "text",
+    "section": "Servicios"
+  },
+  {
+    "name": "field_ce_072",
+    "label": "Servicios · Dale estructura a tu idea con acompañamiento para iniciar tu camino empresarial.",
+    "value": "Dale estructura a tu idea con acompañamiento para iniciar tu camino empresarial.",
+    "kind": "text",
+    "section": "Servicios"
+  },
+  {
+    "name": "field_ce_073",
+    "label": "Servicios · Orientación para crear tu empresa",
+    "value": "Orientación para crear tu empresa",
+    "kind": "text",
+    "section": "Servicios"
+  },
+  {
+    "name": "field_ce_074",
+    "label": "Servicios · Acompañamiento en formalización",
+    "value": "Acompañamiento en formalización",
+    "kind": "text",
+    "section": "Servicios"
+  },
+  {
+    "name": "field_ce_075",
+    "label": "Servicios · Organización contable desde el inicio",
+    "value": "Organización contable desde el inicio",
+    "kind": "text",
+    "section": "Servicios"
+  },
+  {
+    "name": "field_ce_076",
+    "label": "Servicios · #contacto",
+    "value": "#contacto",
+    "kind": "attribute",
+    "section": "Servicios"
+  },
+  {
+    "name": "field_ce_077",
+    "label": "Servicios · Quiero formalizar mi negocio",
+    "value": "Quiero formalizar mi negocio",
+    "kind": "text",
+    "section": "Servicios"
+  },
+  {
+    "name": "field_ce_078",
+    "label": "Servicios · El alcance de cada servicio se define en la propuesta, según las necesidades de tu ne",
+    "value": "El alcance de cada servicio se define en la propuesta, según las necesidades de tu negocio.",
+    "kind": "text",
+    "section": "Servicios"
+  },
+  {
+    "name": "field_ce_079",
+    "label": "Nosotros · Automatización y control",
+    "value": "Automatización y control",
+    "kind": "text",
+    "section": "Nosotros"
+  },
+  {
+    "name": "field_ce_080",
+    "label": "Nosotros · Los números cuentan.",
+    "value": "Los números cuentan.",
+    "kind": "text",
+    "section": "Nosotros"
+  },
+  {
+    "name": "field_ce_081",
+    "label": "Nosotros · La estrategia",
+    "value": "La estrategia",
+    "kind": "text",
+    "section": "Nosotros"
+  },
+  {
+    "name": "field_ce_082",
+    "label": "Nosotros · hace la diferencia.",
+    "value": "hace la diferencia.",
+    "kind": "text",
+    "section": "Nosotros"
+  },
+  {
+    "name": "field_ce_083",
+    "label": "Nosotros · En Conta Elite SAS no solo llevamos registros. Te acompañamos a comprender tu informa",
+    "value": "En Conta Elite SAS no solo llevamos registros. Te acompañamos a comprender tu información y a identificar oportunidades para organizar y automatizar procesos.",
+    "kind": "text",
+    "section": "Nosotros"
+  },
+  {
+    "name": "field_ce_084",
+    "label": "Nosotros · #contacto",
+    "value": "#contacto",
+    "kind": "attribute",
+    "section": "Nosotros"
+  },
+  {
+    "name": "field_ce_085",
+    "label": "Nosotros · Conversemos sobre tu empresa",
+    "value": "Conversemos sobre tu empresa",
+    "kind": "text",
+    "section": "Nosotros"
+  },
+  {
+    "name": "field_ce_086",
+    "label": "Nosotros · 01",
+    "value": "01",
+    "kind": "text",
+    "section": "Nosotros"
+  },
+  {
+    "name": "field_ce_087",
+    "label": "Nosotros · Cercanía que da confianza",
+    "value": "Cercanía que da confianza",
+    "kind": "text",
+    "section": "Nosotros"
+  },
+  {
+    "name": "field_ce_088",
+    "label": "Nosotros · Un equipo de contadores públicos para conversar sobre lo que tu negocio necesita.",
+    "value": "Un equipo de contadores públicos para conversar sobre lo que tu negocio necesita.",
+    "kind": "text",
+    "section": "Nosotros"
+  },
+  {
+    "name": "field_ce_089",
+    "label": "Nosotros · 02",
+    "value": "02",
+    "kind": "text",
+    "section": "Nosotros"
+  },
+  {
+    "name": "field_ce_090",
+    "label": "Nosotros · Tecnología con propósito",
+    "value": "Tecnología con propósito",
+    "kind": "text",
+    "section": "Nosotros"
+  },
+  {
+    "name": "field_ce_091",
+    "label": "Nosotros · Buscamos simplificar tareas y mejorar el control de tu información.",
+    "value": "Buscamos simplificar tareas y mejorar el control de tu información.",
+    "kind": "text",
+    "section": "Nosotros"
+  },
+  {
+    "name": "field_ce_092",
+    "label": "Nosotros · 03",
+    "value": "03",
+    "kind": "text",
+    "section": "Nosotros"
+  },
+  {
+    "name": "field_ce_093",
+    "label": "Nosotros · Información para decidir",
+    "value": "Información para decidir",
+    "kind": "text",
+    "section": "Nosotros"
+  },
+  {
+    "name": "field_ce_094",
+    "label": "Nosotros · Traducimos la información contable en una visión más clara de tu actividad.",
+    "value": "Traducimos la información contable en una visión más clara de tu actividad.",
+    "kind": "text",
+    "section": "Nosotros"
+  },
+  {
+    "name": "field_ce_095",
+    "label": "Proceso de trabajo · Así empezamos",
+    "value": "Así empezamos",
+    "kind": "text",
+    "section": "Proceso de trabajo"
+  },
+  {
+    "name": "field_ce_096",
+    "label": "Proceso de trabajo · Un proceso claro.",
+    "value": "Un proceso claro.",
+    "kind": "text",
+    "section": "Proceso de trabajo"
+  },
+  {
+    "name": "field_ce_097",
+    "label": "Proceso de trabajo · Desde la primera conversación.",
+    "value": "Desde la primera conversación.",
+    "kind": "text",
+    "section": "Proceso de trabajo"
+  },
+  {
+    "name": "field_ce_098",
+    "label": "Proceso de trabajo · 01",
+    "value": "01",
+    "kind": "text",
+    "section": "Proceso de trabajo"
+  },
+  {
+    "name": "field_ce_099",
+    "label": "Proceso de trabajo · Nos cuentas tu momento",
+    "value": "Nos cuentas tu momento",
+    "kind": "text",
+    "section": "Proceso de trabajo"
+  },
+  {
+    "name": "field_ce_100",
+    "label": "Proceso de trabajo · En la asesoría inicial gratuita conocemos tu actividad, tus inquietudes y tus priorid",
+    "value": "En la asesoría inicial gratuita conocemos tu actividad, tus inquietudes y tus prioridades.",
+    "kind": "text",
+    "section": "Proceso de trabajo"
+  },
+  {
+    "name": "field_ce_101",
+    "label": "Proceso de trabajo · 02",
+    "value": "02",
+    "kind": "text",
+    "section": "Proceso de trabajo"
+  },
+  {
+    "name": "field_ce_102",
+    "label": "Proceso de trabajo · Definimos el acompañamiento",
+    "value": "Definimos el acompañamiento",
+    "kind": "text",
+    "section": "Proceso de trabajo"
+  },
+  {
+    "name": "field_ce_103",
+    "label": "Proceso de trabajo · Te presentamos una propuesta con alcance y valor según tus necesidades.",
+    "value": "Te presentamos una propuesta con alcance y valor según tus necesidades.",
+    "kind": "text",
+    "section": "Proceso de trabajo"
+  },
+  {
+    "name": "field_ce_104",
+    "label": "Proceso de trabajo · 03",
+    "value": "03",
+    "kind": "text",
+    "section": "Proceso de trabajo"
+  },
+  {
+    "name": "field_ce_105",
+    "label": "Proceso de trabajo · Avanzamos contigo",
+    "value": "Avanzamos contigo",
+    "kind": "text",
+    "section": "Proceso de trabajo"
+  },
+  {
+    "name": "field_ce_106",
+    "label": "Proceso de trabajo · Organizamos la información y acordamos la dinámica de trabajo remoto.",
+    "value": "Organizamos la información y acordamos la dinámica de trabajo remoto.",
+    "kind": "text",
+    "section": "Proceso de trabajo"
+  },
+  {
+    "name": "field_ce_107",
+    "label": "Planes · Acompañamiento a tu medida",
+    "value": "Acompañamiento a tu medida",
+    "kind": "text",
+    "section": "Planes"
+  },
+  {
+    "name": "field_ce_108",
+    "label": "Planes · Un plan para",
+    "value": "Un plan para",
+    "kind": "text",
+    "section": "Planes"
+  },
+  {
+    "name": "field_ce_109",
+    "label": "Planes · tu siguiente paso.",
+    "value": "tu siguiente paso.",
+    "kind": "text",
+    "section": "Planes"
+  },
+  {
+    "name": "field_ce_110",
+    "label": "Planes · Personas, emprendimientos y empresas tienen necesidades distintas. Partimos de tu rea",
+    "value": "Personas, emprendimientos y empresas tienen necesidades distintas. Partimos de tu realidad.",
+    "kind": "text",
+    "section": "Planes"
+  },
+  {
+    "name": "field_ce_111",
+    "label": "Planes · ACOMPAÑAMIENTO",
+    "value": "ACOMPAÑAMIENTO",
+    "kind": "text",
+    "section": "Planes"
+  },
+  {
+    "name": "field_ce_112",
+    "label": "Planes · Persona natural",
+    "value": "Persona natural",
+    "kind": "text",
+    "section": "Planes"
+  },
+  {
+    "name": "field_ce_113",
+    "label": "Planes · Para quienes buscan orientación sobre su actividad y sus obligaciones.",
+    "value": "Para quienes buscan orientación sobre su actividad y sus obligaciones.",
+    "kind": "text",
+    "section": "Planes"
+  },
+  {
+    "name": "field_ce_114",
+    "label": "Planes · Valor por definir",
+    "value": "Valor por definir",
+    "kind": "text",
+    "section": "Planes"
+  },
+  {
+    "name": "field_ce_115",
+    "label": "Planes · Alcance e inclusiones pendientes de aprobación.",
+    "value": "Alcance e inclusiones pendientes de aprobación.",
+    "kind": "text",
+    "section": "Planes"
+  },
+  {
+    "name": "field_ce_116",
+    "label": "Planes · #contacto",
+    "value": "#contacto",
+    "kind": "attribute",
+    "section": "Planes"
+  },
+  {
+    "name": "field_ce_117",
+    "label": "Planes · Consultar acompañamiento",
+    "value": "Consultar acompañamiento",
+    "kind": "text",
+    "section": "Planes"
+  },
+  {
+    "name": "field_ce_118",
+    "label": "Planes · PARA EMPEZAR",
+    "value": "PARA EMPEZAR",
+    "kind": "text",
+    "section": "Planes"
+  },
+  {
+    "name": "field_ce_119",
+    "label": "Planes · Emprendimiento",
+    "value": "Emprendimiento",
+    "kind": "text",
+    "section": "Planes"
+  },
+  {
+    "name": "field_ce_120",
+    "label": "Planes · Para dar estructura a un negocio que comienza a crecer.",
+    "value": "Para dar estructura a un negocio que comienza a crecer.",
+    "kind": "text",
+    "section": "Planes"
+  },
+  {
+    "name": "field_ce_121",
+    "label": "Planes · Valor por definir",
+    "value": "Valor por definir",
+    "kind": "text",
+    "section": "Planes"
+  },
+  {
+    "name": "field_ce_122",
+    "label": "Planes · Alcance e inclusiones pendientes de aprobación.",
+    "value": "Alcance e inclusiones pendientes de aprobación.",
+    "kind": "text",
+    "section": "Planes"
+  },
+  {
+    "name": "field_ce_123",
+    "label": "Planes · #contacto",
+    "value": "#contacto",
+    "kind": "attribute",
+    "section": "Planes"
+  },
+  {
+    "name": "field_ce_124",
+    "label": "Planes · Consultar acompañamiento",
+    "value": "Consultar acompañamiento",
+    "kind": "text",
+    "section": "Planes"
+  },
+  {
+    "name": "field_ce_125",
+    "label": "Planes · ACOMPAÑAMIENTO",
+    "value": "ACOMPAÑAMIENTO",
+    "kind": "text",
+    "section": "Planes"
+  },
+  {
+    "name": "field_ce_126",
+    "label": "Planes · Empresa",
+    "value": "Empresa",
+    "kind": "text",
+    "section": "Planes"
+  },
+  {
+    "name": "field_ce_127",
+    "label": "Planes · Para microempresas que necesitan organizar y entender sus números.",
+    "value": "Para microempresas que necesitan organizar y entender sus números.",
+    "kind": "text",
+    "section": "Planes"
+  },
+  {
+    "name": "field_ce_128",
+    "label": "Planes · Valor por definir",
+    "value": "Valor por definir",
+    "kind": "text",
+    "section": "Planes"
+  },
+  {
+    "name": "field_ce_129",
+    "label": "Planes · Alcance e inclusiones pendientes de aprobación.",
+    "value": "Alcance e inclusiones pendientes de aprobación.",
+    "kind": "text",
+    "section": "Planes"
+  },
+  {
+    "name": "field_ce_130",
+    "label": "Planes · #contacto",
+    "value": "#contacto",
+    "kind": "attribute",
+    "section": "Planes"
+  },
+  {
+    "name": "field_ce_131",
+    "label": "Planes · Consultar acompañamiento",
+    "value": "Consultar acompañamiento",
+    "kind": "text",
+    "section": "Planes"
+  },
+  {
+    "name": "field_ce_132",
+    "label": "Planes · Propuesta de estructura comercial. Nombres, precios, periodicidad e inclusiones están",
+    "value": "Propuesta de estructura comercial. Nombres, precios, periodicidad e inclusiones están pendientes de aprobación por Conta Élite.",
+    "kind": "text",
+    "section": "Planes"
+  },
+  {
+    "name": "field_ce_133",
+    "label": "Equipo · Personas detrás de tus números",
+    "value": "Personas detrás de tus números",
+    "kind": "text",
+    "section": "Equipo"
+  },
+  {
+    "name": "field_ce_134",
+    "label": "Equipo · Un equipo cercano.",
+    "value": "Un equipo cercano.",
+    "kind": "text",
+    "section": "Equipo"
+  },
+  {
+    "name": "field_ce_135",
+    "label": "Equipo · Un mismo propósito.",
+    "value": "Un mismo propósito.",
+    "kind": "text",
+    "section": "Equipo"
+  },
+  {
+    "name": "field_ce_136",
+    "label": "Equipo · Somos un equipo de cuatro contadores públicos. Nos une el propósito de acompañar a pe",
+    "value": "Somos un equipo de cuatro contadores públicos. Nos une el propósito de acompañar a personas y empresas con información clara, tecnología y estrategia.",
+    "kind": "text",
+    "section": "Equipo"
+  },
+  {
+    "name": "field_ce_137",
+    "label": "Equipo · Los nombres, perfiles y fotografías reales del equipo se incorporarán en esta sección",
+    "value": "Los nombres, perfiles y fotografías reales del equipo se incorporarán en esta sección.",
+    "kind": "text",
+    "section": "Equipo"
+  },
+  {
+    "name": "field_ce_138",
+    "label": "Equipo · Perfil del equipo 1",
+    "value": "Perfil del equipo 1",
+    "kind": "text",
+    "section": "Equipo"
+  },
+  {
+    "name": "field_ce_139",
+    "label": "Equipo · Foto y nombre pendientes",
+    "value": "Foto y nombre pendientes",
+    "kind": "text",
+    "section": "Equipo"
+  },
+  {
+    "name": "field_ce_140",
+    "label": "Equipo · Perfil del equipo 2",
+    "value": "Perfil del equipo 2",
+    "kind": "text",
+    "section": "Equipo"
+  },
+  {
+    "name": "field_ce_141",
+    "label": "Equipo · Foto y nombre pendientes",
+    "value": "Foto y nombre pendientes",
+    "kind": "text",
+    "section": "Equipo"
+  },
+  {
+    "name": "field_ce_142",
+    "label": "Equipo · Perfil del equipo 3",
+    "value": "Perfil del equipo 3",
+    "kind": "text",
+    "section": "Equipo"
+  },
+  {
+    "name": "field_ce_143",
+    "label": "Equipo · Foto y nombre pendientes",
+    "value": "Foto y nombre pendientes",
+    "kind": "text",
+    "section": "Equipo"
+  },
+  {
+    "name": "field_ce_144",
+    "label": "Equipo · Perfil del equipo 4",
+    "value": "Perfil del equipo 4",
+    "kind": "text",
+    "section": "Equipo"
+  },
+  {
+    "name": "field_ce_145",
+    "label": "Equipo · Foto y nombre pendientes",
+    "value": "Foto y nombre pendientes",
+    "kind": "text",
+    "section": "Equipo"
+  },
+  {
+    "name": "field_ce_146",
+    "label": "Recursos · Conocimiento que acompaña",
+    "value": "Conocimiento que acompaña",
+    "kind": "text",
+    "section": "Recursos"
+  },
+  {
+    "name": "field_ce_147",
+    "label": "Recursos · Más claridad,",
+    "value": "Más claridad,",
+    "kind": "text",
+    "section": "Recursos"
+  },
+  {
+    "name": "field_ce_148",
+    "label": "Recursos · también al aprender.",
+    "value": "también al aprender.",
+    "kind": "text",
+    "section": "Recursos"
+  },
+  {
+    "name": "field_ce_149",
+    "label": "Recursos · Un espacio para futuras guías, artículos y fechas tributarias verificadas por el equi",
+    "value": "Un espacio para futuras guías, artículos y fechas tributarias verificadas por el equipo.",
+    "kind": "text",
+    "section": "Recursos"
+  },
+  {
+    "name": "field_ce_150",
+    "label": "Recursos · GUÍA PRÁCTICA",
+    "value": "GUÍA PRÁCTICA",
+    "kind": "text",
+    "section": "Recursos"
+  },
+  {
+    "name": "field_ce_151",
+    "label": "Recursos · Prepara tu primera asesoría contable",
+    "value": "Prepara tu primera asesoría contable",
+    "kind": "text",
+    "section": "Recursos"
+  },
+  {
+    "name": "field_ce_152",
+    "label": "Recursos · Una conversación más útil empieza por entender tu situación.",
+    "value": "Una conversación más útil empieza por entender tu situación.",
+    "kind": "text",
+    "section": "Recursos"
+  },
+  {
+    "name": "field_ce_153",
+    "label": "Recursos · Ver guía breve",
+    "value": "Ver guía breve",
+    "kind": "text",
+    "section": "Recursos"
+  },
+  {
+    "name": "field_ce_154",
+    "label": "Recursos · Describe tu actividad, en qué etapa estás y qué necesitas resolver. Ten a mano un res",
+    "value": "Describe tu actividad, en qué etapa estás y qué necesitas resolver. Ten a mano un resumen de cómo organizas tus ingresos y gastos. Evita compartir documentos sensibles por canales no acordados.",
+    "kind": "text",
+    "section": "Recursos"
+  },
+  {
+    "name": "field_ce_155",
+    "label": "Recursos · EMPRENDIMIENTO",
+    "value": "EMPRENDIMIENTO",
+    "kind": "text",
+    "section": "Recursos"
+  },
+  {
+    "name": "field_ce_156",
+    "label": "Recursos · De una idea a un negocio organizado",
+    "value": "De una idea a un negocio organizado",
+    "kind": "text",
+    "section": "Recursos"
+  },
+  {
+    "name": "field_ce_157",
+    "label": "Recursos · Define tus prioridades antes de iniciar la formalización.",
+    "value": "Define tus prioridades antes de iniciar la formalización.",
+    "kind": "text",
+    "section": "Recursos"
+  },
+  {
+    "name": "field_ce_158",
+    "label": "Recursos · Ver puntos de partida",
+    "value": "Ver puntos de partida",
+    "kind": "text",
+    "section": "Recursos"
+  },
+  {
+    "name": "field_ce_159",
+    "label": "Recursos · Cuéntanos qué venderás, si trabajarás con socios y cómo esperas operar. Esa informaci",
+    "value": "Cuéntanos qué venderás, si trabajarás con socios y cómo esperas operar. Esa información nos ayuda a orientar el acompañamiento y definir los próximos pasos para tu caso.",
+    "kind": "text",
+    "section": "Recursos"
+  },
+  {
+    "name": "field_ce_160",
+    "label": "Recursos · AGENDA TRIBUTARIA",
+    "value": "AGENDA TRIBUTARIA",
+    "kind": "text",
+    "section": "Recursos"
+  },
+  {
+    "name": "field_ce_161",
+    "label": "Recursos · Tus obligaciones, con perspectiva",
+    "value": "Tus obligaciones, con perspectiva",
+    "kind": "text",
+    "section": "Recursos"
+  },
+  {
+    "name": "field_ce_162",
+    "label": "Recursos · Espacio reservado para un calendario revisado y actualizado.",
+    "value": "Espacio reservado para un calendario revisado y actualizado.",
+    "kind": "text",
+    "section": "Recursos"
+  },
+  {
+    "name": "field_ce_163",
+    "label": "Recursos · Consultar disponibilidad",
+    "value": "Consultar disponibilidad",
+    "kind": "text",
+    "section": "Recursos"
+  },
+  {
+    "name": "field_ce_164",
+    "label": "Recursos · Calendario pendiente de publicación. No se han incluido vencimientos sin verificar. C",
+    "value": "Calendario pendiente de publicación. No se han incluido vencimientos sin verificar. Consulta tus fechas aplicables con tu contador y las fuentes oficiales correspondientes.",
+    "kind": "text",
+    "section": "Recursos"
+  },
+  {
+    "name": "field_ce_165",
+    "label": "Preguntas frecuentes · Resolvamos tus dudas",
+    "value": "Resolvamos tus dudas",
+    "kind": "text",
+    "section": "Preguntas frecuentes"
+  },
+  {
+    "name": "field_ce_166",
+    "label": "Preguntas frecuentes · Antes de dar el primer paso.",
+    "value": "Antes de dar el primer paso.",
+    "kind": "text",
+    "section": "Preguntas frecuentes"
+  },
+  {
+    "name": "field_ce_167",
+    "label": "Preguntas frecuentes · ¿Pueden atenderme si estoy en otra ciudad?",
+    "value": "¿Pueden atenderme si estoy en otra ciudad?",
+    "kind": "text",
+    "section": "Preguntas frecuentes"
+  },
+  {
+    "name": "field_ce_168",
+    "label": "Preguntas frecuentes · Sí. El acompañamiento es remoto y está dirigido a clientes en toda Colombia.",
+    "value": "Sí. El acompañamiento es remoto y está dirigido a clientes en toda Colombia.",
+    "kind": "text",
+    "section": "Preguntas frecuentes"
+  },
+  {
+    "name": "field_ce_169",
+    "label": "Preguntas frecuentes · ¿Atienden personas naturales y emprendimientos nuevos?",
+    "value": "¿Atienden personas naturales y emprendimientos nuevos?",
+    "kind": "text",
+    "section": "Preguntas frecuentes"
+  },
+  {
+    "name": "field_ce_170",
+    "label": "Preguntas frecuentes · Sí. Acompañamos a personas naturales, personas jurídicas y emprendimientos, incluidas",
+    "value": "Sí. Acompañamos a personas naturales, personas jurídicas y emprendimientos, incluidas microempresas y negocios en creación.",
+    "kind": "text",
+    "section": "Preguntas frecuentes"
+  },
+  {
+    "name": "field_ce_171",
+    "label": "Preguntas frecuentes · ¿La primera asesoría tiene costo?",
+    "value": "¿La primera asesoría tiene costo?",
+    "kind": "text",
+    "section": "Preguntas frecuentes"
+  },
+  {
+    "name": "field_ce_172",
+    "label": "Preguntas frecuentes · No. La asesoría inicial es gratuita. Nos permite conocer tu situación y definir qué a",
+    "value": "No. La asesoría inicial es gratuita. Nos permite conocer tu situación y definir qué acompañamiento necesitas.",
+    "kind": "text",
+    "section": "Preguntas frecuentes"
+  },
+  {
+    "name": "field_ce_173",
+    "label": "Preguntas frecuentes · ¿Cómo se define el valor del servicio?",
+    "value": "¿Cómo se define el valor del servicio?",
+    "kind": "text",
+    "section": "Preguntas frecuentes"
+  },
+  {
+    "name": "field_ce_174",
+    "label": "Preguntas frecuentes · Trabajamos mediante planes. El precio y las inclusiones se establecen en una propuest",
+    "value": "Trabajamos mediante planes. El precio y las inclusiones se establecen en una propuesta según tu actividad y las necesidades identificadas.",
+    "kind": "text",
+    "section": "Preguntas frecuentes"
+  },
+  {
+    "name": "field_ce_175",
+    "label": "Preguntas frecuentes · ¿Puedo contratar y pagar desde esta página?",
+    "value": "¿Puedo contratar y pagar desde esta página?",
+    "kind": "text",
+    "section": "Preguntas frecuentes"
+  },
+  {
+    "name": "field_ce_176",
+    "label": "Preguntas frecuentes · La contratación se coordina directamente con el equipo. Esta página no recibe pagos n",
+    "value": "La contratación se coordina directamente con el equipo. Esta página no recibe pagos ni documentos tributarios.",
+    "kind": "text",
+    "section": "Preguntas frecuentes"
+  },
+  {
+    "name": "field_ce_177",
+    "label": "Contacto · Empecemos con una conversación",
+    "value": "Empecemos con una conversación",
+    "kind": "text",
+    "section": "Contacto"
+  },
+  {
+    "name": "field_ce_178",
+    "label": "Contacto · Tu próximo paso",
+    "value": "Tu próximo paso",
+    "kind": "text",
+    "section": "Contacto"
+  },
+  {
+    "name": "field_ce_179",
+    "label": "Contacto · merece claridad.",
+    "value": "merece claridad.",
+    "kind": "text",
+    "section": "Contacto"
+  },
+  {
+    "name": "field_ce_180",
+    "label": "Contacto · Cuéntanos en qué etapa estás. Encontraremos juntos el punto de partida para organizar",
+    "value": "Cuéntanos en qué etapa estás. Encontraremos juntos el punto de partida para organizar tu contabilidad.",
+    "kind": "text",
+    "section": "Contacto"
+  },
+  {
+    "name": "field_ce_181",
+    "label": "Contacto · Cuéntanos qué necesita tu negocio",
+    "value": "Cuéntanos qué necesita tu negocio",
+    "kind": "text",
+    "section": "Contacto"
+  },
+  {
+    "name": "field_ce_182",
+    "label": "Contacto · Completa tus datos para preparar tu solicitud de asesoría.",
+    "value": "Completa tus datos para preparar tu solicitud de asesoría.",
+    "kind": "text",
+    "section": "Contacto"
+  },
+  {
+    "name": "field_ce_183",
+    "label": "Contacto · Nombre completo *",
+    "value": "Nombre completo *",
+    "kind": "text",
+    "section": "Contacto"
+  },
+  {
+    "name": "field_ce_184",
+    "label": "Contacto · Empresa o emprendimiento",
+    "value": "Empresa o emprendimiento",
+    "kind": "text",
+    "section": "Contacto"
+  },
+  {
+    "name": "field_ce_185",
+    "label": "Contacto · Correo electrónico *",
+    "value": "Correo electrónico *",
+    "kind": "text",
+    "section": "Contacto"
+  },
+  {
+    "name": "field_ce_186",
+    "label": "Contacto · Teléfono",
+    "value": "Teléfono",
+    "kind": "text",
+    "section": "Contacto"
+  },
+  {
+    "name": "field_ce_187",
+    "label": "Contacto · ¿En qué podemos ayudarte? *",
+    "value": "¿En qué podemos ayudarte? *",
+    "kind": "text",
+    "section": "Contacto"
+  },
+  {
+    "name": "field_ce_188",
+    "label": "Contacto · Selecciona un servicio",
+    "value": "Selecciona un servicio",
+    "kind": "text",
+    "section": "Contacto"
+  },
+  {
+    "name": "field_ce_189",
+    "label": "Contacto · Contabilidad empresarial",
+    "value": "Contabilidad empresarial",
+    "kind": "text",
+    "section": "Contacto"
+  },
+  {
+    "name": "field_ce_190",
+    "label": "Contacto · Asesoría tributaria",
+    "value": "Asesoría tributaria",
+    "kind": "text",
+    "section": "Contacto"
+  },
+  {
+    "name": "field_ce_191",
+    "label": "Contacto · Formalización de empresas",
+    "value": "Formalización de empresas",
+    "kind": "text",
+    "section": "Contacto"
+  },
+  {
+    "name": "field_ce_192",
+    "label": "Contacto · Asesoría financiera",
+    "value": "Asesoría financiera",
+    "kind": "text",
+    "section": "Contacto"
+  },
+  {
+    "name": "field_ce_193",
+    "label": "Contacto · Otro / Necesito orientación",
+    "value": "Otro / Necesito orientación",
+    "kind": "text",
+    "section": "Contacto"
+  },
+  {
+    "name": "field_ce_194",
+    "label": "Contacto · Cuéntanos un poco más *",
+    "value": "Cuéntanos un poco más *",
+    "kind": "text",
+    "section": "Contacto"
+  },
+  {
+    "name": "field_ce_195",
+    "label": "Contacto · Describe tu actividad y lo que te gustaría resolver.",
+    "value": "Describe tu actividad y lo que te gustaría resolver.",
+    "kind": "attribute",
+    "section": "Contacto"
+  },
+  {
+    "name": "field_ce_196",
+    "label": "Contacto · * Campos obligatorios. No incluyas claves, documentos de identidad ni información tri",
+    "value": "* Campos obligatorios. No incluyas claves, documentos de identidad ni información tributaria sensible.",
+    "kind": "text",
+    "section": "Contacto"
+  },
+  {
+    "name": "field_ce_197",
+    "label": "Contacto · Demostración: el envío está pendiente de configurar. Tus datos no se enviarán ni se g",
+    "value": "Demostración: el envío está pendiente de configurar. Tus datos no se enviarán ni se guardarán.",
+    "kind": "text",
+    "section": "Contacto"
+  },
+  {
+    "name": "field_ce_198",
+    "label": "Contacto · Preparar solicitud",
+    "value": "Preparar solicitud",
+    "kind": "text",
+    "section": "Contacto"
+  },
+  {
+    "name": "field_ce_199",
+    "label": "Contacto · Solicita tu asesoría inicial gratuita",
+    "value": "Solicita tu asesoría inicial gratuita",
+    "kind": "text",
+    "section": "Contacto"
+  },
+  {
+    "name": "field_ce_200",
+    "label": "Contacto · Atención remota para toda Colombia.",
+    "value": "Atención remota para toda Colombia.",
+    "kind": "text",
+    "section": "Contacto"
+  },
+  {
+    "name": "field_ce_201",
+    "label": "Contacto · #contacto",
+    "value": "#contacto",
+    "kind": "attribute",
+    "section": "Contacto"
+  },
+  {
+    "name": "field_ce_202",
+    "label": "Contacto · Escribir por WhatsApp",
+    "value": "Escribir por WhatsApp",
+    "kind": "text",
+    "section": "Contacto"
+  },
+  {
+    "name": "field_ce_203",
+    "label": "Contacto · #contacto",
+    "value": "#contacto",
+    "kind": "attribute",
+    "section": "Contacto"
+  },
+  {
+    "name": "field_ce_204",
+    "label": "Contacto · Llamar al equipo",
+    "value": "Llamar al equipo",
+    "kind": "text",
+    "section": "Contacto"
+  },
+  {
+    "name": "field_ce_205",
+    "label": "Contacto · #contacto",
+    "value": "#contacto",
+    "kind": "attribute",
+    "section": "Contacto"
+  },
+  {
+    "name": "field_ce_206",
+    "label": "Contacto · Contactar por correo electrónico",
+    "value": "Contactar por correo electrónico",
+    "kind": "text",
+    "section": "Contacto"
+  },
+  {
+    "name": "field_ce_207",
+    "label": "Contacto · Datos de contacto pendientes de incorporar en esta plantilla.",
+    "value": "Datos de contacto pendientes de incorporar en esta plantilla.",
+    "kind": "text",
+    "section": "Contacto"
+  },
+  {
+    "name": "field_ce_208",
+    "label": "Pie de página · CONTA ÉLITE",
+    "value": "CONTA ÉLITE",
+    "kind": "text",
+    "section": "Pie de página"
+  },
+  {
+    "name": "field_ce_209",
+    "label": "Pie de página · Conta Elite SAS",
+    "value": "Conta Elite SAS",
+    "kind": "text",
+    "section": "Pie de página"
+  },
+  {
+    "name": "field_ce_210",
+    "label": "Pie de página · Contabilidad · Tributación · Asesoría",
+    "value": "Contabilidad · Tributación · Asesoría",
+    "kind": "text",
+    "section": "Pie de página"
+  },
+  {
+    "name": "field_ce_211",
+    "label": "Pie de página · Confianza. Crecimiento. Estrategia.",
+    "value": "Confianza. Crecimiento. Estrategia.",
+    "kind": "text",
+    "section": "Pie de página"
+  },
+  {
+    "name": "field_ce_212",
+    "label": "Pie de página · Atención remota en Colombia.",
+    "value": "Atención remota en Colombia.",
+    "kind": "text",
+    "section": "Pie de página"
+  },
+  {
+    "name": "field_ce_213",
+    "label": "Pie de página · Privacidad de esta plantilla",
+    "value": "Privacidad de esta plantilla",
+    "kind": "text",
+    "section": "Pie de página"
+  },
+  {
+    "name": "field_ce_214",
+    "label": "Pie de página · ©",
+    "value": "© ",
+    "kind": "text",
+    "section": "Pie de página"
+  },
+  {
+    "name": "field_ce_215",
+    "label": "Pie de página · Conta Elite SAS",
+    "value": " Conta Elite SAS",
+    "kind": "text",
+    "section": "Pie de página"
+  },
+  {
+    "name": "field_ce_216",
+    "label": "Pie de página · Línea gráfica",
+    "value": "Línea gráfica",
+    "kind": "text",
+    "section": "Pie de página"
+  },
+  {
+    "name": "field_ce_217",
+    "label": "Pie de página · Azul marino #0B203E",
+    "value": "Azul marino #0B203E",
+    "kind": "text",
+    "section": "Pie de página"
+  },
+  {
+    "name": "field_ce_218",
+    "label": "Pie de página · Dorado #BD974B",
+    "value": "Dorado #BD974B",
+    "kind": "text",
+    "section": "Pie de página"
+  },
+  {
+    "name": "field_ce_219",
+    "label": "Pie de página · Blanco #FFFFFF",
+    "value": "Blanco #FFFFFF",
+    "kind": "text",
+    "section": "Pie de página"
+  },
+  {
+    "name": "field_ce_220",
+    "label": "Pie de página · Entendido",
+    "value": "Entendido",
+    "kind": "text",
+    "section": "Pie de página"
+  }
+]

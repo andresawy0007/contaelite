@@ -1,0 +1,19 @@
+uuid: b22b3ef8-2eae-4e74-b39b-9ac00135a112
+langcode: es
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_ce_044
+    - node.type.landing_page
+id: node.landing_page.field_ce_044
+field_name: field_ce_044
+entity_type: node
+bundle: landing_page
+label: 'Encabezado · 4 contadores públicos'
+description: 'Texto de la plantilla. No requiere HTML.'
+required: false
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string_long

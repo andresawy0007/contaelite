@@ -1,0 +1,19 @@
+uuid: 05326e75-d90f-4baa-a9da-ded0d4ac8027
+langcode: es
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_ce_093
+    - node.type.landing_page
+id: node.landing_page.field_ce_093
+field_name: field_ce_093
+entity_type: node
+bundle: landing_page
+label: 'Nosotros · Información para decidir'
+description: 'Texto de la plantilla. No requiere HTML.'
+required: false
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string_long

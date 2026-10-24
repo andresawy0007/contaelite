@@ -1,0 +1,19 @@
+uuid: dc7ad501-e022-4c68-87a3-0eadb4039d36
+langcode: es
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_ce_177
+    - node.type.landing_page
+id: node.landing_page.field_ce_177
+field_name: field_ce_177
+entity_type: node
+bundle: landing_page
+label: 'Contacto · Empecemos con una conversación'
+description: 'Texto de la plantilla. No requiere HTML.'
+required: false
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string_long

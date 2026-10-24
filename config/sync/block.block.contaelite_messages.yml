@@ -1,0 +1,22 @@
+uuid: 66951e02-5dbe-4e34-aaed-36879fe7fda2
+langcode: es
+status: true
+dependencies:
+  module:
+    - system
+  theme:
+    - contaelite_theme
+_core:
+  default_config_hash: 6ebf-suzDUrLUnwM5GYaSWBgqyGFx2-kLRmjcKEK2oQ
+id: contaelite_messages
+theme: contaelite_theme
+region: content
+weight: -10
+provider: null
+plugin: system_messages_block
+settings:
+  id: system_messages_block
+  label: Mensajes
+  label_display: '0'
+  provider: system
+visibility: {  }

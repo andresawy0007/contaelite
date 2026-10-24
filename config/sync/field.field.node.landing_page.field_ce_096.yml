@@ -1,0 +1,19 @@
+uuid: 67f663ff-3857-4b09-944a-f4fb8c3c74f5
+langcode: es
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_ce_096
+    - node.type.landing_page
+id: node.landing_page.field_ce_096
+field_name: field_ce_096
+entity_type: node
+bundle: landing_page
+label: 'Proceso de trabajo · Un proceso claro.'
+description: 'Texto de la plantilla. No requiere HTML.'
+required: false
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string_long

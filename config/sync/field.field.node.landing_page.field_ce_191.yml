@@ -1,0 +1,19 @@
+uuid: 264b2cfa-2f2b-486e-a536-a7f9e0a1de2b
+langcode: es
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_ce_191
+    - node.type.landing_page
+id: node.landing_page.field_ce_191
+field_name: field_ce_191
+entity_type: node
+bundle: landing_page
+label: 'Contacto · Formalización de empresas'
+description: 'Texto de la plantilla. No requiere HTML.'
+required: false
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string_long

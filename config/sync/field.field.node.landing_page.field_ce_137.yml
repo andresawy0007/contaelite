@@ -1,0 +1,19 @@
+uuid: 6f034662-5800-42f4-aa02-ad39c64437ab
+langcode: es
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_ce_137
+    - node.type.landing_page
+id: node.landing_page.field_ce_137
+field_name: field_ce_137
+entity_type: node
+bundle: landing_page
+label: 'Equipo · Los nombres, perfiles y fotografías reales del equipo se incorporarán en esta sección'
+description: 'Texto de la plantilla. No requiere HTML.'
+required: false
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string_long

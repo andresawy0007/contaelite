@@ -1,0 +1,19 @@
+uuid: 18f0cbc7-6614-46bf-8ad5-f1582bbc2927
+langcode: es
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_ce_172
+    - node.type.landing_page
+id: node.landing_page.field_ce_172
+field_name: field_ce_172
+entity_type: node
+bundle: landing_page
+label: 'Preguntas frecuentes · No. La asesoría inicial es gratuita. Nos permite conocer tu situación y definir qué a'
+description: 'Texto de la plantilla. No requiere HTML.'
+required: false
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string_long

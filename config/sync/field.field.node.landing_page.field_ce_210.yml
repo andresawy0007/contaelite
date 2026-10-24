@@ -1,0 +1,19 @@
+uuid: 026bd09b-7dbb-4b29-a2a7-cbaab4083e24
+langcode: es
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_ce_210
+    - node.type.landing_page
+id: node.landing_page.field_ce_210
+field_name: field_ce_210
+entity_type: node
+bundle: landing_page
+label: 'Pie de página · Contabilidad · Tributación · Asesoría'
+description: 'Texto de la plantilla. No requiere HTML.'
+required: false
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string_long

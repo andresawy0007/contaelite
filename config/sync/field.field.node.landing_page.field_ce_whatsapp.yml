@@ -1,0 +1,19 @@
+uuid: 092c1029-f33d-4834-848b-a85fed7fee6f
+langcode: es
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_ce_whatsapp
+    - node.type.landing_page
+id: node.landing_page.field_ce_whatsapp
+field_name: field_ce_whatsapp
+entity_type: node
+bundle: landing_page
+label: 'WhatsApp (código de país y número, solo dígitos)'
+description: ''
+required: false
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string_long

@@ -1,0 +1,19 @@
+uuid: 87f8627c-c810-4954-a6b8-51dc69ad1023
+langcode: es
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_ce_127
+    - node.type.landing_page
+id: node.landing_page.field_ce_127
+field_name: field_ce_127
+entity_type: node
+bundle: landing_page
+label: 'Planes · Para microempresas que necesitan organizar y entender sus números.'
+description: 'Texto de la plantilla. No requiere HTML.'
+required: false
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string_long

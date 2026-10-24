@@ -1,0 +1,19 @@
+uuid: 187e22f5-ed95-4806-96ff-0db0f62653c4
+langcode: es
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_ce_201
+    - node.type.landing_page
+id: node.landing_page.field_ce_201
+field_name: field_ce_201
+entity_type: node
+bundle: landing_page
+label: 'Contacto · #contacto'
+description: 'Enlace, texto alternativo o etiqueta accesible. Los enlaces admiten #seccion, rutas relativas, https://, mailto: y tel:.'
+required: false
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string_long

@@ -1,0 +1,19 @@
+uuid: 247af181-ab0b-4750-bca0-2c36a053aa38
+langcode: es
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_ce_074
+    - node.type.landing_page
+id: node.landing_page.field_ce_074
+field_name: field_ce_074
+entity_type: node
+bundle: landing_page
+label: 'Servicios · Acompañamiento en formalización'
+description: 'Texto de la plantilla. No requiere HTML.'
+required: false
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string_long

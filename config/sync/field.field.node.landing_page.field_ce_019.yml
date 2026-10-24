@@ -1,0 +1,19 @@
+uuid: 766896ae-2b88-420b-a135-85f3927714fe
+langcode: es
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_ce_019
+    - node.type.landing_page
+id: node.landing_page.field_ce_019
+field_name: field_ce_019
+entity_type: node
+bundle: landing_page
+label: 'Encabezado · Abrir menú'
+description: 'Enlace, texto alternativo o etiqueta accesible. Los enlaces admiten #seccion, rutas relativas, https://, mailto: y tel:.'
+required: false
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string_long

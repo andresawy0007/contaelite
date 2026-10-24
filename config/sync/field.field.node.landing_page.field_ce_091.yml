@@ -1,0 +1,19 @@
+uuid: 5827c9ae-020d-4b06-b234-9f431426b2aa
+langcode: es
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_ce_091
+    - node.type.landing_page
+id: node.landing_page.field_ce_091
+field_name: field_ce_091
+entity_type: node
+bundle: landing_page
+label: 'Nosotros · Buscamos simplificar tareas y mejorar el control de tu información.'
+description: 'Texto de la plantilla. No requiere HTML.'
+required: false
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string_long

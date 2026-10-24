@@ -1,0 +1,19 @@
+uuid: 93be989a-bc9d-4be1-8383-f32c389dab4c
+langcode: es
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_ce_152
+    - node.type.landing_page
+id: node.landing_page.field_ce_152
+field_name: field_ce_152
+entity_type: node
+bundle: landing_page
+label: 'Recursos · Una conversación más útil empieza por entender tu situación.'
+description: 'Texto de la plantilla. No requiere HTML.'
+required: false
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string_long

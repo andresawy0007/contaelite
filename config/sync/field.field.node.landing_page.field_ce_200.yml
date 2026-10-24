@@ -1,0 +1,19 @@
+uuid: 222e3305-b935-4be3-952c-7b46c7ea7900
+langcode: es
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_ce_200
+    - node.type.landing_page
+id: node.landing_page.field_ce_200
+field_name: field_ce_200
+entity_type: node
+bundle: landing_page
+label: 'Contacto · Atención remota para toda Colombia.'
+description: 'Texto de la plantilla. No requiere HTML.'
+required: false
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string_long

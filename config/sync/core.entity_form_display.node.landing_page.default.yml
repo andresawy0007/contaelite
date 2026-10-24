@@ -1,0 +1,1890 @@
+uuid: df315174-d9a3-4e91-acb1-a90577c1efeb
+langcode: es
+status: true
+dependencies:
+  config:
+    - field.field.node.landing_page.field_ce_001
+    - field.field.node.landing_page.field_ce_002
+    - field.field.node.landing_page.field_ce_003
+    - field.field.node.landing_page.field_ce_004
+    - field.field.node.landing_page.field_ce_005
+    - field.field.node.landing_page.field_ce_006
+    - field.field.node.landing_page.field_ce_007
+    - field.field.node.landing_page.field_ce_008
+    - field.field.node.landing_page.field_ce_009
+    - field.field.node.landing_page.field_ce_010
+    - field.field.node.landing_page.field_ce_011
+    - field.field.node.landing_page.field_ce_012
+    - field.field.node.landing_page.field_ce_013
+    - field.field.node.landing_page.field_ce_014
+    - field.field.node.landing_page.field_ce_015
+    - field.field.node.landing_page.field_ce_016
+    - field.field.node.landing_page.field_ce_017
+    - field.field.node.landing_page.field_ce_018
+    - field.field.node.landing_page.field_ce_019
+    - field.field.node.landing_page.field_ce_020
+    - field.field.node.landing_page.field_ce_021
+    - field.field.node.landing_page.field_ce_022
+    - field.field.node.landing_page.field_ce_023
+    - field.field.node.landing_page.field_ce_024
+    - field.field.node.landing_page.field_ce_025
+    - field.field.node.landing_page.field_ce_026
+    - field.field.node.landing_page.field_ce_027
+    - field.field.node.landing_page.field_ce_028
+    - field.field.node.landing_page.field_ce_029
+    - field.field.node.landing_page.field_ce_030
+    - field.field.node.landing_page.field_ce_031
+    - field.field.node.landing_page.field_ce_032
+    - field.field.node.landing_page.field_ce_033
+    - field.field.node.landing_page.field_ce_034
+    - field.field.node.landing_page.field_ce_035
+    - field.field.node.landing_page.field_ce_036
+    - field.field.node.landing_page.field_ce_037
+    - field.field.node.landing_page.field_ce_038
+    - field.field.node.landing_page.field_ce_039
+    - field.field.node.landing_page.field_ce_040
+    - field.field.node.landing_page.field_ce_041
+    - field.field.node.landing_page.field_ce_042
+    - field.field.node.landing_page.field_ce_043
+    - field.field.node.landing_page.field_ce_044
+    - field.field.node.landing_page.field_ce_045
+    - field.field.node.landing_page.field_ce_046
+    - field.field.node.landing_page.field_ce_047
+    - field.field.node.landing_page.field_ce_048
+    - field.field.node.landing_page.field_ce_049
+    - field.field.node.landing_page.field_ce_050
+    - field.field.node.landing_page.field_ce_051
+    - field.field.node.landing_page.field_ce_052
+    - field.field.node.landing_page.field_ce_053
+    - field.field.node.landing_page.field_ce_054
+    - field.field.node.landing_page.field_ce_055
+    - field.field.node.landing_page.field_ce_056
+    - field.field.node.landing_page.field_ce_057
+    - field.field.node.landing_page.field_ce_058
+    - field.field.node.landing_page.field_ce_059
+    - field.field.node.landing_page.field_ce_060
+    - field.field.node.landing_page.field_ce_061
+    - field.field.node.landing_page.field_ce_062
+    - field.field.node.landing_page.field_ce_063
+    - field.field.node.landing_page.field_ce_064
+    - field.field.node.landing_page.field_ce_065
+    - field.field.node.landing_page.field_ce_066
+    - field.field.node.landing_page.field_ce_067
+    - field.field.node.landing_page.field_ce_068
+    - field.field.node.landing_page.field_ce_069
+    - field.field.node.landing_page.field_ce_070
+    - field.field.node.landing_page.field_ce_071
+    - field.field.node.landing_page.field_ce_072
+    - field.field.node.landing_page.field_ce_073
+    - field.field.node.landing_page.field_ce_074
+    - field.field.node.landing_page.field_ce_075
+    - field.field.node.landing_page.field_ce_076
+    - field.field.node.landing_page.field_ce_077
+    - field.field.node.landing_page.field_ce_078
+    - field.field.node.landing_page.field_ce_079
+    - field.field.node.landing_page.field_ce_080
+    - field.field.node.landing_page.field_ce_081
+    - field.field.node.landing_page.field_ce_082
+    - field.field.node.landing_page.field_ce_083
+    - field.field.node.landing_page.field_ce_084
+    - field.field.node.landing_page.field_ce_085
+    - field.field.node.landing_page.field_ce_086
+    - field.field.node.landing_page.field_ce_087
+    - field.field.node.landing_page.field_ce_088
+    - field.field.node.landing_page.field_ce_089
+    - field.field.node.landing_page.field_ce_090
+    - field.field.node.landing_page.field_ce_091
+    - field.field.node.landing_page.field_ce_092
+    - field.field.node.landing_page.field_ce_093
+    - field.field.node.landing_page.field_ce_094
+    - field.field.node.landing_page.field_ce_095
+    - field.field.node.landing_page.field_ce_096
+    - field.field.node.landing_page.field_ce_097
+    - field.field.node.landing_page.field_ce_098
+    - field.field.node.landing_page.field_ce_099
+    - field.field.node.landing_page.field_ce_100
+    - field.field.node.landing_page.field_ce_101
+    - field.field.node.landing_page.field_ce_102
+    - field.field.node.landing_page.field_ce_103
+    - field.field.node.landing_page.field_ce_104
+    - field.field.node.landing_page.field_ce_105
+    - field.field.node.landing_page.field_ce_106
+    - field.field.node.landing_page.field_ce_107
+    - field.field.node.landing_page.field_ce_108
+    - field.field.node.landing_page.field_ce_109
+    - field.field.node.landing_page.field_ce_110
+    - field.field.node.landing_page.field_ce_111
+    - field.field.node.landing_page.field_ce_112
+    - field.field.node.landing_page.field_ce_113
+    - field.field.node.landing_page.field_ce_114
+    - field.field.node.landing_page.field_ce_115
+    - field.field.node.landing_page.field_ce_116
+    - field.field.node.landing_page.field_ce_117
+    - field.field.node.landing_page.field_ce_118
+    - field.field.node.landing_page.field_ce_119
+    - field.field.node.landing_page.field_ce_120
+    - field.field.node.landing_page.field_ce_121
+    - field.field.node.landing_page.field_ce_122
+    - field.field.node.landing_page.field_ce_123
+    - field.field.node.landing_page.field_ce_124
+    - field.field.node.landing_page.field_ce_125
+    - field.field.node.landing_page.field_ce_126
+    - field.field.node.landing_page.field_ce_127
+    - field.field.node.landing_page.field_ce_128
+    - field.field.node.landing_page.field_ce_129
+    - field.field.node.landing_page.field_ce_130
+    - field.field.node.landing_page.field_ce_131
+    - field.field.node.landing_page.field_ce_132
+    - field.field.node.landing_page.field_ce_133
+    - field.field.node.landing_page.field_ce_134
+    - field.field.node.landing_page.field_ce_135
+    - field.field.node.landing_page.field_ce_136
+    - field.field.node.landing_page.field_ce_137
+    - field.field.node.landing_page.field_ce_138
+    - field.field.node.landing_page.field_ce_139
+    - field.field.node.landing_page.field_ce_140
+    - field.field.node.landing_page.field_ce_141
+    - field.field.node.landing_page.field_ce_142
+    - field.field.node.landing_page.field_ce_143
+    - field.field.node.landing_page.field_ce_144
+    - field.field.node.landing_page.field_ce_145
+    - field.field.node.landing_page.field_ce_146
+    - field.field.node.landing_page.field_ce_147
+    - field.field.node.landing_page.field_ce_148
+    - field.field.node.landing_page.field_ce_149
+    - field.field.node.landing_page.field_ce_150
+    - field.field.node.landing_page.field_ce_151
+    - field.field.node.landing_page.field_ce_152
+    - field.field.node.landing_page.field_ce_153
+    - field.field.node.landing_page.field_ce_154
+    - field.field.node.landing_page.field_ce_155
+    - field.field.node.landing_page.field_ce_156
+    - field.field.node.landing_page.field_ce_157
+    - field.field.node.landing_page.field_ce_158
+    - field.field.node.landing_page.field_ce_159
+    - field.field.node.landing_page.field_ce_160
+    - field.field.node.landing_page.field_ce_161
+    - field.field.node.landing_page.field_ce_162
+    - field.field.node.landing_page.field_ce_163
+    - field.field.node.landing_page.field_ce_164
+    - field.field.node.landing_page.field_ce_165
+    - field.field.node.landing_page.field_ce_166
+    - field.field.node.landing_page.field_ce_167
+    - field.field.node.landing_page.field_ce_168
+    - field.field.node.landing_page.field_ce_169
+    - field.field.node.landing_page.field_ce_170
+    - field.field.node.landing_page.field_ce_171
+    - field.field.node.landing_page.field_ce_172
+    - field.field.node.landing_page.field_ce_173
+    - field.field.node.landing_page.field_ce_174
+    - field.field.node.landing_page.field_ce_175
+    - field.field.node.landing_page.field_ce_176
+    - field.field.node.landing_page.field_ce_177
+    - field.field.node.landing_page.field_ce_178
+    - field.field.node.landing_page.field_ce_179
+    - field.field.node.landing_page.field_ce_180
+    - field.field.node.landing_page.field_ce_181
+    - field.field.node.landing_page.field_ce_182
+    - field.field.node.landing_page.field_ce_183
+    - field.field.node.landing_page.field_ce_184
+    - field.field.node.landing_page.field_ce_185
+    - field.field.node.landing_page.field_ce_186
+    - field.field.node.landing_page.field_ce_187
+    - field.field.node.landing_page.field_ce_188
+    - field.field.node.landing_page.field_ce_189
+    - field.field.node.landing_page.field_ce_190
+    - field.field.node.landing_page.field_ce_191
+    - field.field.node.landing_page.field_ce_192
+    - field.field.node.landing_page.field_ce_193
+    - field.field.node.landing_page.field_ce_194
+    - field.field.node.landing_page.field_ce_195
+    - field.field.node.landing_page.field_ce_196
+    - field.field.node.landing_page.field_ce_197
+    - field.field.node.landing_page.field_ce_198
+    - field.field.node.landing_page.field_ce_199
+    - field.field.node.landing_page.field_ce_200
+    - field.field.node.landing_page.field_ce_201
+    - field.field.node.landing_page.field_ce_202
+    - field.field.node.landing_page.field_ce_203
+    - field.field.node.landing_page.field_ce_204
+    - field.field.node.landing_page.field_ce_205
+    - field.field.node.landing_page.field_ce_206
+    - field.field.node.landing_page.field_ce_207
+    - field.field.node.landing_page.field_ce_208
+    - field.field.node.landing_page.field_ce_209
+    - field.field.node.landing_page.field_ce_210
+    - field.field.node.landing_page.field_ce_211
+    - field.field.node.landing_page.field_ce_212
+    - field.field.node.landing_page.field_ce_213
+    - field.field.node.landing_page.field_ce_214
+    - field.field.node.landing_page.field_ce_215
+    - field.field.node.landing_page.field_ce_216
+    - field.field.node.landing_page.field_ce_217
+    - field.field.node.landing_page.field_ce_218
+    - field.field.node.landing_page.field_ce_219
+    - field.field.node.landing_page.field_ce_220
+    - field.field.node.landing_page.field_ce_description
+    - field.field.node.landing_page.field_ce_email
+    - field.field.node.landing_page.field_ce_logo
+    - field.field.node.landing_page.field_ce_phone
+    - field.field.node.landing_page.field_ce_portrait_1
+    - field.field.node.landing_page.field_ce_portrait_2
+    - field.field.node.landing_page.field_ce_portrait_3
+    - field.field.node.landing_page.field_ce_portrait_4
+    - field.field.node.landing_page.field_ce_privacy
+    - field.field.node.landing_page.field_ce_whatsapp
+    - image.style.thumbnail
+    - node.type.landing_page
+  module:
+    - image
+id: node.landing_page.default
+targetEntityType: node
+bundle: landing_page
+mode: default
+content:
+  created:
+    type: datetime_timestamp
+    weight: 10
+    region: content
+    settings: {  }
+    third_party_settings: {  }
+  field_ce_001:
+    type: string_textarea
+    weight: 0
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_002:
+    type: string_textarea
+    weight: 1
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_003:
+    type: string_textarea
+    weight: 2
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_004:
+    type: string_textarea
+    weight: 3
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_005:
+    type: string_textarea
+    weight: 4
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_006:
+    type: string_textarea
+    weight: 5
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_007:
+    type: string_textarea
+    weight: 6
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_008:
+    type: string_textarea
+    weight: 7
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_009:
+    type: string_textarea
+    weight: 8
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_010:
+    type: string_textarea
+    weight: 9
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_011:
+    type: string_textarea
+    weight: 10
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_012:
+    type: string_textarea
+    weight: 11
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_013:
+    type: string_textarea
+    weight: 12
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_014:
+    type: string_textarea
+    weight: 13
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_015:
+    type: string_textarea
+    weight: 14
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_016:
+    type: string_textarea
+    weight: 15
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_017:
+    type: string_textarea
+    weight: 16
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_018:
+    type: string_textarea
+    weight: 17
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_019:
+    type: string_textarea
+    weight: 18
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_020:
+    type: string_textarea
+    weight: 19
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_021:
+    type: string_textarea
+    weight: 20
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_022:
+    type: string_textarea
+    weight: 21
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_023:
+    type: string_textarea
+    weight: 22
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_024:
+    type: string_textarea
+    weight: 23
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_025:
+    type: string_textarea
+    weight: 24
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_026:
+    type: string_textarea
+    weight: 25
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_027:
+    type: string_textarea
+    weight: 26
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_028:
+    type: string_textarea
+    weight: 27
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_029:
+    type: string_textarea
+    weight: 28
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_030:
+    type: string_textarea
+    weight: 29
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_031:
+    type: string_textarea
+    weight: 30
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_032:
+    type: string_textarea
+    weight: 31
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_033:
+    type: string_textarea
+    weight: 32
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_034:
+    type: string_textarea
+    weight: 33
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_035:
+    type: string_textarea
+    weight: 34
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_036:
+    type: string_textarea
+    weight: 35
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_037:
+    type: string_textarea
+    weight: 36
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_038:
+    type: string_textarea
+    weight: 37
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_039:
+    type: string_textarea
+    weight: 38
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_040:
+    type: string_textarea
+    weight: 39
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_041:
+    type: string_textarea
+    weight: 40
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_042:
+    type: string_textarea
+    weight: 41
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_043:
+    type: string_textarea
+    weight: 42
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_044:
+    type: string_textarea
+    weight: 43
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_045:
+    type: string_textarea
+    weight: 44
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_046:
+    type: string_textarea
+    weight: 45
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_047:
+    type: string_textarea
+    weight: 46
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_048:
+    type: string_textarea
+    weight: 47
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_049:
+    type: string_textarea
+    weight: 48
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_050:
+    type: string_textarea
+    weight: 49
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_051:
+    type: string_textarea
+    weight: 50
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_052:
+    type: string_textarea
+    weight: 51
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_053:
+    type: string_textarea
+    weight: 52
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_054:
+    type: string_textarea
+    weight: 53
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_055:
+    type: string_textarea
+    weight: 54
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_056:
+    type: string_textarea
+    weight: 55
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_057:
+    type: string_textarea
+    weight: 56
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_058:
+    type: string_textarea
+    weight: 57
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_059:
+    type: string_textarea
+    weight: 58
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_060:
+    type: string_textarea
+    weight: 59
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_061:
+    type: string_textarea
+    weight: 60
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_062:
+    type: string_textarea
+    weight: 61
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_063:
+    type: string_textarea
+    weight: 62
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_064:
+    type: string_textarea
+    weight: 63
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_065:
+    type: string_textarea
+    weight: 64
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_066:
+    type: string_textarea
+    weight: 65
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_067:
+    type: string_textarea
+    weight: 66
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_068:
+    type: string_textarea
+    weight: 67
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_069:
+    type: string_textarea
+    weight: 68
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_070:
+    type: string_textarea
+    weight: 69
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_071:
+    type: string_textarea
+    weight: 70
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_072:
+    type: string_textarea
+    weight: 71
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_073:
+    type: string_textarea
+    weight: 72
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_074:
+    type: string_textarea
+    weight: 73
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_075:
+    type: string_textarea
+    weight: 74
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_076:
+    type: string_textarea
+    weight: 75
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_077:
+    type: string_textarea
+    weight: 76
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_078:
+    type: string_textarea
+    weight: 77
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_079:
+    type: string_textarea
+    weight: 78
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_080:
+    type: string_textarea
+    weight: 79
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_081:
+    type: string_textarea
+    weight: 80
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_082:
+    type: string_textarea
+    weight: 81
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_083:
+    type: string_textarea
+    weight: 82
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_084:
+    type: string_textarea
+    weight: 83
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_085:
+    type: string_textarea
+    weight: 84
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_086:
+    type: string_textarea
+    weight: 85
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_087:
+    type: string_textarea
+    weight: 86
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_088:
+    type: string_textarea
+    weight: 87
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_089:
+    type: string_textarea
+    weight: 88
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_090:
+    type: string_textarea
+    weight: 89
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_091:
+    type: string_textarea
+    weight: 90
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_092:
+    type: string_textarea
+    weight: 91
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_093:
+    type: string_textarea
+    weight: 92
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_094:
+    type: string_textarea
+    weight: 93
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_095:
+    type: string_textarea
+    weight: 94
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_096:
+    type: string_textarea
+    weight: 95
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_097:
+    type: string_textarea
+    weight: 96
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_098:
+    type: string_textarea
+    weight: 97
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_099:
+    type: string_textarea
+    weight: 98
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_100:
+    type: string_textarea
+    weight: 99
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_101:
+    type: string_textarea
+    weight: 100
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_102:
+    type: string_textarea
+    weight: 101
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_103:
+    type: string_textarea
+    weight: 102
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_104:
+    type: string_textarea
+    weight: 103
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_105:
+    type: string_textarea
+    weight: 104
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_106:
+    type: string_textarea
+    weight: 105
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_107:
+    type: string_textarea
+    weight: 106
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_108:
+    type: string_textarea
+    weight: 107
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_109:
+    type: string_textarea
+    weight: 108
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_110:
+    type: string_textarea
+    weight: 109
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_111:
+    type: string_textarea
+    weight: 110
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_112:
+    type: string_textarea
+    weight: 111
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_113:
+    type: string_textarea
+    weight: 112
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_114:
+    type: string_textarea
+    weight: 113
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_115:
+    type: string_textarea
+    weight: 114
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_116:
+    type: string_textarea
+    weight: 115
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_117:
+    type: string_textarea
+    weight: 116
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_118:
+    type: string_textarea
+    weight: 117
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_119:
+    type: string_textarea
+    weight: 118
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_120:
+    type: string_textarea
+    weight: 119
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_121:
+    type: string_textarea
+    weight: 120
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_122:
+    type: string_textarea
+    weight: 121
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_123:
+    type: string_textarea
+    weight: 122
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_124:
+    type: string_textarea
+    weight: 123
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_125:
+    type: string_textarea
+    weight: 124
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_126:
+    type: string_textarea
+    weight: 125
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_127:
+    type: string_textarea
+    weight: 126
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_128:
+    type: string_textarea
+    weight: 127
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_129:
+    type: string_textarea
+    weight: 128
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_130:
+    type: string_textarea
+    weight: 129
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_131:
+    type: string_textarea
+    weight: 130
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_132:
+    type: string_textarea
+    weight: 131
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_133:
+    type: string_textarea
+    weight: 132
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_134:
+    type: string_textarea
+    weight: 133
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_135:
+    type: string_textarea
+    weight: 134
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_136:
+    type: string_textarea
+    weight: 135
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_137:
+    type: string_textarea
+    weight: 136
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_138:
+    type: string_textarea
+    weight: 137
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_139:
+    type: string_textarea
+    weight: 138
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_140:
+    type: string_textarea
+    weight: 139
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_141:
+    type: string_textarea
+    weight: 140
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_142:
+    type: string_textarea
+    weight: 141
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_143:
+    type: string_textarea
+    weight: 142
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_144:
+    type: string_textarea
+    weight: 143
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_145:
+    type: string_textarea
+    weight: 144
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_146:
+    type: string_textarea
+    weight: 145
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_147:
+    type: string_textarea
+    weight: 146
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_148:
+    type: string_textarea
+    weight: 147
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_149:
+    type: string_textarea
+    weight: 148
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_150:
+    type: string_textarea
+    weight: 149
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_151:
+    type: string_textarea
+    weight: 150
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_152:
+    type: string_textarea
+    weight: 151
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_153:
+    type: string_textarea
+    weight: 152
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_154:
+    type: string_textarea
+    weight: 153
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_155:
+    type: string_textarea
+    weight: 154
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_156:
+    type: string_textarea
+    weight: 155
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_157:
+    type: string_textarea
+    weight: 156
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_158:
+    type: string_textarea
+    weight: 157
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_159:
+    type: string_textarea
+    weight: 158
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_160:
+    type: string_textarea
+    weight: 159
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_161:
+    type: string_textarea
+    weight: 160
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_162:
+    type: string_textarea
+    weight: 161
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_163:
+    type: string_textarea
+    weight: 162
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_164:
+    type: string_textarea
+    weight: 163
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_165:
+    type: string_textarea
+    weight: 164
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_166:
+    type: string_textarea
+    weight: 165
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_167:
+    type: string_textarea
+    weight: 166
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_168:
+    type: string_textarea
+    weight: 167
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_169:
+    type: string_textarea
+    weight: 168
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_170:
+    type: string_textarea
+    weight: 169
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_171:
+    type: string_textarea
+    weight: 170
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_172:
+    type: string_textarea
+    weight: 171
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_173:
+    type: string_textarea
+    weight: 172
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_174:
+    type: string_textarea
+    weight: 173
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_175:
+    type: string_textarea
+    weight: 174
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_176:
+    type: string_textarea
+    weight: 175
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_177:
+    type: string_textarea
+    weight: 176
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_178:
+    type: string_textarea
+    weight: 177
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_179:
+    type: string_textarea
+    weight: 178
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_180:
+    type: string_textarea
+    weight: 179
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_181:
+    type: string_textarea
+    weight: 180
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_182:
+    type: string_textarea
+    weight: 181
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_183:
+    type: string_textarea
+    weight: 182
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_184:
+    type: string_textarea
+    weight: 183
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_185:
+    type: string_textarea
+    weight: 184
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_186:
+    type: string_textarea
+    weight: 185
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_187:
+    type: string_textarea
+    weight: 186
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_188:
+    type: string_textarea
+    weight: 187
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_189:
+    type: string_textarea
+    weight: 188
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_190:
+    type: string_textarea
+    weight: 189
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_191:
+    type: string_textarea
+    weight: 190
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_192:
+    type: string_textarea
+    weight: 191
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_193:
+    type: string_textarea
+    weight: 192
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_194:
+    type: string_textarea
+    weight: 193
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_195:
+    type: string_textarea
+    weight: 194
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_196:
+    type: string_textarea
+    weight: 195
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_197:
+    type: string_textarea
+    weight: 196
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_198:
+    type: string_textarea
+    weight: 197
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_199:
+    type: string_textarea
+    weight: 198
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_200:
+    type: string_textarea
+    weight: 199
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_201:
+    type: string_textarea
+    weight: 200
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_202:
+    type: string_textarea
+    weight: 201
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_203:
+    type: string_textarea
+    weight: 202
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_204:
+    type: string_textarea
+    weight: 203
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_205:
+    type: string_textarea
+    weight: 204
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_206:
+    type: string_textarea
+    weight: 205
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_207:
+    type: string_textarea
+    weight: 206
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_208:
+    type: string_textarea
+    weight: 207
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_209:
+    type: string_textarea
+    weight: 208
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_210:
+    type: string_textarea
+    weight: 209
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_211:
+    type: string_textarea
+    weight: 210
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_212:
+    type: string_textarea
+    weight: 211
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_213:
+    type: string_textarea
+    weight: 212
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_214:
+    type: string_textarea
+    weight: 213
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_215:
+    type: string_textarea
+    weight: 214
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_216:
+    type: string_textarea
+    weight: 215
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_217:
+    type: string_textarea
+    weight: 216
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_218:
+    type: string_textarea
+    weight: 217
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_219:
+    type: string_textarea
+    weight: 218
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_220:
+    type: string_textarea
+    weight: 219
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_description:
+    type: string_textarea
+    weight: -5
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_email:
+    type: string_textarea
+    weight: -5
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_logo:
+    type: image_image
+    weight: -10
+    region: content
+    settings: {  }
+    third_party_settings: {  }
+  field_ce_phone:
+    type: string_textarea
+    weight: -5
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_portrait_1:
+    type: image_image
+    weight: -8
+    region: content
+    settings: {  }
+    third_party_settings: {  }
+  field_ce_portrait_2:
+    type: image_image
+    weight: -8
+    region: content
+    settings: {  }
+    third_party_settings: {  }
+  field_ce_portrait_3:
+    type: image_image
+    weight: -8
+    region: content
+    settings: {  }
+    third_party_settings: {  }
+  field_ce_portrait_4:
+    type: image_image
+    weight: -8
+    region: content
+    settings: {  }
+    third_party_settings: {  }
+  field_ce_privacy:
+    type: string_textarea
+    weight: -5
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  field_ce_whatsapp:
+    type: string_textarea
+    weight: -5
+    region: content
+    settings:
+      rows: 2
+    third_party_settings: {  }
+  langcode:
+    type: language_select
+    weight: 2
+    region: content
+    settings:
+      include_locked: true
+    third_party_settings: {  }
+  status:
+    type: boolean_checkbox
+    weight: 120
+    region: content
+    settings:
+      display_label: true
+    third_party_settings: {  }
+  title:
+    type: string_textfield
+    weight: -5
+    region: content
+    settings:
+      size: 60
+      placeholder: ''
+    third_party_settings: {  }
+  uid:
+    type: entity_reference_autocomplete
+    weight: 5
+    region: content
+    settings:
+      match_operator: CONTAINS
+      match_limit: 10
+      size: 60
+      placeholder: ''
+    third_party_settings: {  }
+hidden:
+  promote: true
+  sticky: true

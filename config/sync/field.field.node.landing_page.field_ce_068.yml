@@ -1,0 +1,19 @@
+uuid: 3369646f-ae26-404c-a8ca-19772d269658
+langcode: es
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_ce_068
+    - node.type.landing_page
+id: node.landing_page.field_ce_068
+field_name: field_ce_068
+entity_type: node
+bundle: landing_page
+label: 'Servicios · Quiero orientación tributaria'
+description: 'Texto de la plantilla. No requiere HTML.'
+required: false
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string_long

@@ -1,0 +1,19 @@
+uuid: 3085d20e-fee2-4a61-a3b9-1fe4aa0dce3b
+langcode: es
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_ce_040
+    - node.type.landing_page
+id: node.landing_page.field_ce_040
+field_name: field_ce_040
+entity_type: node
+bundle: landing_page
+label: 'Encabezado · Decisiones'
+description: 'Texto de la plantilla. No requiere HTML.'
+required: false
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string_long

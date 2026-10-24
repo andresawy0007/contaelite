@@ -1,0 +1,19 @@
+uuid: b80abf74-a6e1-4d6e-925e-479ee6d261b6
+langcode: es
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_ce_012
+    - node.type.landing_page
+id: node.landing_page.field_ce_012
+field_name: field_ce_012
+entity_type: node
+bundle: landing_page
+label: 'Encabezado · La firma'
+description: 'Texto de la plantilla. No requiere HTML.'
+required: false
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string_long

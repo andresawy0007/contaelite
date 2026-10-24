@@ -1,0 +1,19 @@
+uuid: 0225d9e6-aa5a-402f-a1bc-0b6f51c6236f
+langcode: es
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_ce_151
+    - node.type.landing_page
+id: node.landing_page.field_ce_151
+field_name: field_ce_151
+entity_type: node
+bundle: landing_page
+label: 'Recursos · Prepara tu primera asesoría contable'
+description: 'Texto de la plantilla. No requiere HTML.'
+required: false
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string_long

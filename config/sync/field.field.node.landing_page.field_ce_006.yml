@@ -1,0 +1,19 @@
+uuid: f060bece-306a-490f-b28b-67ce198a8aaf
+langcode: es
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_ce_006
+    - node.type.landing_page
+id: node.landing_page.field_ce_006
+field_name: field_ce_006
+entity_type: node
+bundle: landing_page
+label: 'Encabezado · Conta Élite, inicio'
+description: 'Enlace, texto alternativo o etiqueta accesible. Los enlaces admiten #seccion, rutas relativas, https://, mailto: y tel:.'
+required: false
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string_long

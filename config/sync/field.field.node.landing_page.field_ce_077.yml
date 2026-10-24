@@ -1,0 +1,19 @@
+uuid: 9a750711-e4a5-4796-a36a-b2e6b49a4978
+langcode: es
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_ce_077
+    - node.type.landing_page
+id: node.landing_page.field_ce_077
+field_name: field_ce_077
+entity_type: node
+bundle: landing_page
+label: 'Servicios · Quiero formalizar mi negocio'
+description: 'Texto de la plantilla. No requiere HTML.'
+required: false
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string_long

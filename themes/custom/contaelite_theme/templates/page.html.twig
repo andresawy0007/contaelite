@@ -1,0 +1,1 @@
+{% if logged_in %}<div class="conta-admin"><a href="/admin/content">Administrar contenido</a>{% if node %}<a href="{{ path('entity.node.edit_form', {node: node.id}) }}">Editar página</a>{% endif %}</div>{% endif %}<div id="main-content">{{ page.content }}</div>

@@ -1,0 +1,19 @@
+uuid: 53f69d3f-069f-4121-b9e3-8804a893b2a4
+langcode: es
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_ce_049
+    - node.type.landing_page
+id: node.landing_page.field_ce_049
+field_name: field_ce_049
+entity_type: node
+bundle: landing_page
+label: 'Servicios · Más dirección.'
+description: 'Texto de la plantilla. No requiere HTML.'
+required: false
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string_long

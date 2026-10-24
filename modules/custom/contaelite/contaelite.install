@@ -1,0 +1,82 @@
+<?php
+
+use Drupal\Core\File\FileExists;
+use Drupal\Core\File\FileSystemInterface;
+use Drupal\field\Entity\FieldConfig;
+use Drupal\field\Entity\FieldStorageConfig;
+use Drupal\node\Entity\Node;
+use Drupal\node\Entity\NodeType;
+use Drupal\Core\Entity\Entity\EntityFormDisplay;
+use Drupal\Core\Entity\Entity\EntityViewDisplay;
+
+/**
+ * Implements hook_install().
+ */
+function contaelite_install(): void {
+  NodeType::create(['type' => 'landing_page', 'name' => 'Landing page', 'description' => 'Página de Conta Élite con todos sus textos, enlaces y logo administrables.', 'new_revision' => TRUE])->save();
+  $path = \Drupal::service('extension.list.module')->getPath('contaelite');
+  $definitions = json_decode(file_get_contents($path . '/data/landing.json'), TRUE, 512, JSON_THROW_ON_ERROR);
+  $form = EntityFormDisplay::create(['targetEntityType' => 'node', 'bundle' => 'landing_page', 'mode' => 'default', 'status' => TRUE]);
+  $view = EntityViewDisplay::create(['targetEntityType' => 'node', 'bundle' => 'landing_page', 'mode' => 'default', 'status' => TRUE]);
+  $values = ['type' => 'landing_page', 'title' => 'Conta Élite | Contabilidad para crecer con claridad', 'status' => 1, 'uid' => 1];
+  foreach ($definitions as $weight => $definition) {
+    $name = $definition['name'];
+    FieldStorageConfig::create(['field_name' => $name, 'entity_type' => 'node', 'type' => 'string_long', 'cardinality' => 1])->save();
+    FieldConfig::create(['field_name' => $name, 'entity_type' => 'node', 'bundle' => 'landing_page', 'label' => $definition['label'], 'description' => $definition['kind'] === 'attribute' ? 'Enlace, texto alternativo o etiqueta accesible. Los enlaces admiten #seccion, rutas relativas, https://, mailto: y tel:.' : 'Texto de la plantilla. No requiere HTML.'])->save();
+    $form->setComponent($name, ['type' => 'string_textarea', 'weight' => $weight, 'settings' => ['rows' => 2]]);
+    $view->removeComponent($name);
+    $values[$name] = ['value' => $definition['value']];
+  }
+  FieldStorageConfig::create(['field_name' => 'field_ce_logo', 'entity_type' => 'node', 'type' => 'image'])->save();
+  FieldConfig::create(['field_name' => 'field_ce_logo', 'entity_type' => 'node', 'bundle' => 'landing_page', 'label' => 'Logo de Conta Élite', 'settings' => ['file_extensions' => 'png jpg jpeg webp', 'file_directory' => 'contaelite', 'alt_field_required' => TRUE]])->save();
+  $form->setComponent('field_ce_logo', ['type' => 'image_image', 'weight' => -10]);
+  foreach (['whatsapp' => 'WhatsApp (código de país y número, solo dígitos)', 'phone' => 'Teléfono de contacto', 'email' => 'Correo de contacto', 'description' => 'Descripción para buscadores', 'privacy' => 'Política de privacidad'] as $key => $label) {
+    $name = 'field_ce_' . $key;
+    FieldStorageConfig::create(['field_name' => $name, 'entity_type' => 'node', 'type' => 'string_long'])->save();
+    FieldConfig::create(['field_name' => $name, 'entity_type' => 'node', 'bundle' => 'landing_page', 'label' => $label])->save();
+    $form->setComponent($name, ['type' => 'string_textarea', 'weight' => -5, 'settings' => ['rows' => 2]]);
+  }
+  $values['field_ce_description'] = 'Asesoría contable, tributaria y financiera para personas, microempresas y emprendimientos. Atención remota en toda Colombia.';
+  $values['field_ce_privacy'] = 'El formulario funciona en modo demostración: no guarda ni envía datos. No utiliza cookies de seguimiento ni analítica. Antes del lanzamiento se debe incorporar la política oficial de tratamiento de datos de Conta Elite SAS.';
+  $directory = 'public://contaelite';
+  \Drupal::service('file_system')->prepareDirectory($directory, FileSystemInterface::CREATE_DIRECTORY);
+  $file = \Drupal::service('file.repository')->writeData(file_get_contents($path . '/assets/logo-header.webp'), $directory . '/logo.webp', FileExists::Replace);
+  $values['field_ce_logo'] = ['target_id' => $file->id(), 'alt' => 'Conta Élite — Contabilidad, tributación y asesoría'];
+  for ($i = 1; $i <= 4; $i++) {
+    $name = 'field_ce_portrait_' . $i;
+    FieldStorageConfig::create(['field_name' => $name, 'entity_type' => 'node', 'type' => 'image'])->save();
+    FieldConfig::create(['field_name' => $name, 'entity_type' => 'node', 'bundle' => 'landing_page', 'label' => 'Fotografía del equipo ' . $i, 'settings' => ['file_extensions' => 'png jpg jpeg webp', 'file_directory' => 'contaelite/equipo', 'alt_field_required' => TRUE]])->save();
+    $form->setComponent($name, ['type' => 'image_image', 'weight' => -8]);
+  }
+  $form->save();
+  $view->save();
+  foreach (['anonymous', 'authenticated'] as $role_id) {
+    $role = \Drupal\user\Entity\Role::load($role_id);
+    $role->grantPermission('access content')->save();
+  }
+  $editor = \Drupal\user\Entity\Role::create(['id' => 'contaelite_editor', 'label' => 'Editor de Conta Élite']);
+  foreach (['access content', 'access content overview', 'access administration pages', 'view the administration theme', 'create landing_page content', 'edit any landing_page content', 'view own unpublished content'] as $permission) {
+    $editor->grantPermission($permission);
+  }
+  $editor->save();
+  $node = Node::create($values);
+  $node->save();
+  \Drupal::service('theme_installer')->install(['contaelite_theme', 'claro']);
+  \Drupal::configFactory()->getEditable('system.theme')->set('default', 'contaelite_theme')->set('admin', 'claro')->save();
+  \Drupal::configFactory()->getEditable('node.settings')->set('use_admin_theme', TRUE)->save();
+  \Drupal::configFactory()->getEditable('system.site')->set('name', 'Conta Élite')->set('page.front', '/node/' . $node->id())->save();
+}
+
+/** Add editable team photographs to existing installations. */
+function contaelite_update_11001(): void {
+  $form = EntityFormDisplay::load('node.landing_page.default');
+  for ($i = 1; $i <= 4; $i++) {
+    $name = 'field_ce_portrait_' . $i;
+    if (!FieldStorageConfig::loadByName('node', $name)) {
+      FieldStorageConfig::create(['field_name' => $name, 'entity_type' => 'node', 'type' => 'image'])->save();
+      FieldConfig::create(['field_name' => $name, 'entity_type' => 'node', 'bundle' => 'landing_page', 'label' => 'Fotografía del equipo ' . $i, 'settings' => ['file_extensions' => 'png jpg jpeg webp', 'file_directory' => 'contaelite/equipo', 'alt_field_required' => TRUE]])->save();
+      $form->setComponent($name, ['type' => 'image_image', 'weight' => -8]);
+    }
+  }
+  $form->save();
+}

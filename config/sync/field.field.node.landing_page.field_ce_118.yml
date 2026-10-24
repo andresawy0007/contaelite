@@ -1,0 +1,19 @@
+uuid: ae04a610-4af2-4e59-8349-172fd6de1f37
+langcode: es
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_ce_118
+    - node.type.landing_page
+id: node.landing_page.field_ce_118
+field_name: field_ce_118
+entity_type: node
+bundle: landing_page
+label: 'Planes · PARA EMPEZAR'
+description: 'Texto de la plantilla. No requiere HTML.'
+required: false
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string_long

@@ -1,0 +1,19 @@
+uuid: 0a6c8a51-c8ef-43a1-9e33-292e565eaca7
+langcode: es
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_ce_218
+    - node.type.landing_page
+id: node.landing_page.field_ce_218
+field_name: field_ce_218
+entity_type: node
+bundle: landing_page
+label: 'Pie de página · Dorado #BD974B'
+description: 'Texto de la plantilla. No requiere HTML.'
+required: false
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string_long

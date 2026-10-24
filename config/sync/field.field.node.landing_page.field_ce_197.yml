@@ -1,0 +1,19 @@
+uuid: 86a37135-a529-45a9-b181-01e041708c40
+langcode: es
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_ce_197
+    - node.type.landing_page
+id: node.landing_page.field_ce_197
+field_name: field_ce_197
+entity_type: node
+bundle: landing_page
+label: 'Contacto · Demostración: el envío está pendiente de configurar. Tus datos no se enviarán ni se g'
+description: 'Texto de la plantilla. No requiere HTML.'
+required: false
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string_long

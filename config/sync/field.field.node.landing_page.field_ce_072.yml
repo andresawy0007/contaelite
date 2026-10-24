@@ -1,0 +1,19 @@
+uuid: 255186bb-e821-434b-bd2e-610911121d5b
+langcode: es
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_ce_072
+    - node.type.landing_page
+id: node.landing_page.field_ce_072
+field_name: field_ce_072
+entity_type: node
+bundle: landing_page
+label: 'Servicios · Dale estructura a tu idea con acompañamiento para iniciar tu camino empresarial.'
+description: 'Texto de la plantilla. No requiere HTML.'
+required: false
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string_long

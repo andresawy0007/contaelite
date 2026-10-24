@@ -1,0 +1,19 @@
+uuid: db1ac546-1223-4dc1-a0ed-1c04b569b40f
+langcode: es
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_ce_083
+    - node.type.landing_page
+id: node.landing_page.field_ce_083
+field_name: field_ce_083
+entity_type: node
+bundle: landing_page
+label: 'Nosotros · En Conta Elite SAS no solo llevamos registros. Te acompañamos a comprender tu informa'
+description: 'Texto de la plantilla. No requiere HTML.'
+required: false
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string_long

@@ -1,0 +1,21 @@
+uuid: 2e038e4f-5fe6-46eb-a73a-0d2f232fb236
+langcode: es
+status: true
+dependencies:
+  config:
+    - node.type.landing_page
+  module:
+    - node
+    - system
+id: contaelite_editor
+label: 'Editor de Conta Élite'
+weight: 2
+is_admin: false
+permissions:
+  - 'access administration pages'
+  - 'access content'
+  - 'access content overview'
+  - 'create landing_page content'
+  - 'edit any landing_page content'
+  - 'view own unpublished content'
+  - 'view the administration theme'

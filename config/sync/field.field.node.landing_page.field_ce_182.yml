@@ -1,0 +1,19 @@
+uuid: 6f6c0897-40ed-4cb2-8f0a-866d4ad95081
+langcode: es
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_ce_182
+    - node.type.landing_page
+id: node.landing_page.field_ce_182
+field_name: field_ce_182
+entity_type: node
+bundle: landing_page
+label: 'Contacto · Completa tus datos para preparar tu solicitud de asesoría.'
+description: 'Texto de la plantilla. No requiere HTML.'
+required: false
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string_long

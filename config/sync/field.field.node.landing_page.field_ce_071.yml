@@ -1,0 +1,19 @@
+uuid: 11dc73a4-f075-4fc9-bd99-1ecf28f6fdc2
+langcode: es
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_ce_071
+    - node.type.landing_page
+id: node.landing_page.field_ce_071
+field_name: field_ce_071
+entity_type: node
+bundle: landing_page
+label: 'Servicios · de empresas'
+description: 'Texto de la plantilla. No requiere HTML.'
+required: false
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string_long

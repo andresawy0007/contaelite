@@ -1,0 +1,19 @@
+uuid: 96f7d886-2250-45d1-9795-3be85ef59d4f
+langcode: es
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_ce_020
+    - node.type.landing_page
+id: node.landing_page.field_ce_020
+field_name: field_ce_020
+entity_type: node
+bundle: landing_page
+label: 'Encabezado · Tu próximo paso, con respaldo'
+description: 'Texto de la plantilla. No requiere HTML.'
+required: false
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string_long

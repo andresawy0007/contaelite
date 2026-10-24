@@ -1,0 +1,19 @@
+uuid: fac743a6-4843-4380-af5e-40083804516c
+langcode: es
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_ce_164
+    - node.type.landing_page
+id: node.landing_page.field_ce_164
+field_name: field_ce_164
+entity_type: node
+bundle: landing_page
+label: 'Recursos · Calendario pendiente de publicación. No se han incluido vencimientos sin verificar. C'
+description: 'Texto de la plantilla. No requiere HTML.'
+required: false
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string_long

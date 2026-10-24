@@ -19,7 +19,8 @@
         "drupal/core-composer-scaffold": "^11.0",
         "drupal/core-project-message": "^11.0",
         "drupal/core-recommended": "^11.0",
-        "drupal/core-vendor-hardening": "^11.0"
+        "drupal/core-vendor-hardening": "^11.0",
+        "drush/drush": "^13"
     },
     "conflict": {
         "drupal/drupal": "*"
@@ -34,7 +35,8 @@
             "drupal/core-vendor-hardening": true,
             "phpstan/extension-installer": true,
             "dealerdirect/phpcodesniffer-composer-installer": true,
-            "php-http/discovery": true
+            "php-http/discovery": true,
+            "symfony/runtime": true
         },
         "sort-packages": true
     },

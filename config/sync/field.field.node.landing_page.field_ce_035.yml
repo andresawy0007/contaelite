@@ -1,0 +1,19 @@
+uuid: 5f18a212-17b8-4a42-a328-7935b3981ef0
+langcode: es
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_ce_035
+    - node.type.landing_page
+id: node.landing_page.field_ce_035
+field_name: field_ce_035
+entity_type: node
+bundle: landing_page
+label: 'Encabezado · Contabilidad'
+description: 'Texto de la plantilla. No requiere HTML.'
+required: false
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string_long

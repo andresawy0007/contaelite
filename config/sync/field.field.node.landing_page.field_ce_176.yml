@@ -1,0 +1,19 @@
+uuid: 9480b1b5-d6a0-421e-bc82-502e7d56da3e
+langcode: es
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_ce_176
+    - node.type.landing_page
+id: node.landing_page.field_ce_176
+field_name: field_ce_176
+entity_type: node
+bundle: landing_page
+label: 'Preguntas frecuentes · La contratación se coordina directamente con el equipo. Esta página no recibe pagos n'
+description: 'Texto de la plantilla. No requiere HTML.'
+required: false
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string_long

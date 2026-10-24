@@ -1,0 +1,19 @@
+uuid: e28697a9-81d4-4550-ab4e-a251b02c4706
+langcode: es
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_ce_033
+    - node.type.landing_page
+id: node.landing_page.field_ce_033
+field_name: field_ce_033
+entity_type: node
+bundle: landing_page
+label: 'Encabezado · Claridad para avanzar.'
+description: 'Texto de la plantilla. No requiere HTML.'
+required: false
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string_long

@@ -1,0 +1,19 @@
+uuid: 060153ee-5756-404c-8b00-cdf8131de091
+langcode: es
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_ce_054
+    - node.type.landing_page
+id: node.landing_page.field_ce_054
+field_name: field_ce_054
+entity_type: node
+bundle: landing_page
+label: 'Servicios · Entiende cómo va tu negocio con información organizada y útil para tomar decisiones.'
+description: 'Texto de la plantilla. No requiere HTML.'
+required: false
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string_long

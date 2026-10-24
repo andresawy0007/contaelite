@@ -1,0 +1,19 @@
+uuid: 2087f314-1890-47e2-8fb1-a836826d439c
+langcode: es
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_ce_002
+    - node.type.landing_page
+id: node.landing_page.field_ce_002
+field_name: field_ce_002
+entity_type: node
+bundle: landing_page
+label: 'Encabezado · Saltar al contenido'
+description: 'Texto de la plantilla. No requiere HTML.'
+required: false
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string_long

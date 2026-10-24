@@ -1,0 +1,19 @@
+uuid: 507e436e-dc3f-46bc-a579-78e255e6abc5
+langcode: es
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_ce_220
+    - node.type.landing_page
+id: node.landing_page.field_ce_220
+field_name: field_ce_220
+entity_type: node
+bundle: landing_page
+label: 'Pie de página · Entendido'
+description: 'Texto de la plantilla. No requiere HTML.'
+required: false
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string_long

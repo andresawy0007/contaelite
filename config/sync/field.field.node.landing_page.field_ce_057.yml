@@ -1,0 +1,19 @@
+uuid: 368301d3-535f-4e08-a528-89f13acb6bd5
+langcode: es
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_ce_057
+    - node.type.landing_page
+id: node.landing_page.field_ce_057
+field_name: field_ce_057
+entity_type: node
+bundle: landing_page
+label: 'Servicios · Acompañamiento contable y de nómina'
+description: 'Texto de la plantilla. No requiere HTML.'
+required: false
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string_long

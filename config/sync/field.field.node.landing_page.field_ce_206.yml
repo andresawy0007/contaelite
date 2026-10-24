@@ -1,0 +1,19 @@
+uuid: faedaa46-97b6-4580-8cba-66f4c523d9fe
+langcode: es
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_ce_206
+    - node.type.landing_page
+id: node.landing_page.field_ce_206
+field_name: field_ce_206
+entity_type: node
+bundle: landing_page
+label: 'Contacto · Contactar por correo electrónico'
+description: 'Texto de la plantilla. No requiere HTML.'
+required: false
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string_long
